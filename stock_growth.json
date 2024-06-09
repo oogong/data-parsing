@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2024.03",
+    "bsTotalEquityYoY": "3.4",
+    "isNetIncomeYoY": "-55.0",
+    "isOperatingProfitLossYoY": "-58.1",
+    "isRevenueYoY": "-7.3"
+  },
+  {
+    "date": "2023.12",
+    "bsTotalEquityYoY": "2.5",
+    "isNetIncomeYoY": "-72.2",
+    "isOperatingProfitLossYoY": "-84.9",
+    "isRevenueYoY": "-14.3"
+  },
+  {
+    "date": "2023.09",
+    "bsTotalEquityYoY": "5.5",
+    "isNetIncomeYoY": "-22.7",
+    "isOperatingProfitLossYoY": "-84.8",
+    "isRevenueYoY": "-15.1"
+  },
+  {
+    "date": "2023.06",
+    "bsTotalEquityYoY": "9.5",
+    "isNetIncomeYoY": "-19.8",
+    "isOperatingProfitLossYoY": "-71.6",
+    "isRevenueYoY": "-11.3"
+  },
+  {
+    "date": "2023.03",
+    "bsTotalEquityYoY": "14.1",
+    "isNetIncomeYoY": "4.1",
+    "isOperatingProfitLossYoY": "-47.0",
+    "isRevenueYoY": "-1.3"
+  }
+]

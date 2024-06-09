@@ -1,0 +1,4096 @@
+{
+    "삼성전자": {
+        "id": "00126380",
+        "profit": {
+            "prototalproROE": "8.4",
+            "prototalproOperatingProfitMargin": "5.4",
+            "prototalproNetProfitMargin": "11.1"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "7.0",
+            "grototalisNetIncomeYoY": "-33.1",
+            "grototalisOperatingProfitLossYoY": "-69.3",
+            "grototalisRevenueYoY": "-9.9"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "26.0",
+            "saaverageStaCurrentRatio": "256.9"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "107.6",
+            "effPayablesTurnoverPeriod": "24.3",
+            "effReceivablesTurnoverPeriod": "52.7"
+        }
+    },
+    "SK하이닉스": {
+        "id": "00164779",
+        "profit": {
+            "prototalproROE": "-12.9",
+            "prototalproOperatingProfitMargin": "-16.2",
+            "prototalproNetProfitMargin": "-22.3"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-12.4",
+            "grototalisNetIncomeYoY": "-224.7",
+            "grototalisOperatingProfitLossYoY": "-198.5",
+            "grototalisRevenueYoY": "-23.7"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "86.7",
+            "saaverageStaCurrentRatio": "143.1"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "176.6",
+            "effPayablesTurnoverPeriod": "21.1",
+            "effReceivablesTurnoverPeriod": "60.3"
+        }
+    },
+    "LG에너지솔루션": {
+        "id": "01515323",
+        "profit": {
+            "prototalproROE": "6.0",
+            "prototalproOperatingProfitMargin": "5.7",
+            "prototalproNetProfitMargin": "4.4"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "17.1",
+            "grototalisNetIncomeYoY": "219.1",
+            "grototalisOperatingProfitLossYoY": "277.8",
+            "grototalisRevenueYoY": "50.1"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "85.5",
+            "saaverageStaCurrentRatio": "165.2"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "87.0",
+            "effPayablesTurnoverPeriod": "74.3",
+            "effReceivablesTurnoverPeriod": "62.4"
+        }
+    },
+    "현대차": {
+        "id": "00164742",
+        "profit": {
+            "prototalproROE": "11.1",
+            "prototalproOperatingProfitMargin": "8.7",
+            "prototalproNetProfitMargin": "7.0"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "11.0",
+            "grototalisNetIncomeYoY": "50.3",
+            "grototalisOperatingProfitLossYoY": "59.4",
+            "grototalisRevenueYoY": "18.2"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "179.8",
+            "saaverageStaCurrentRatio": "142.6"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "50.7",
+            "effPayablesTurnoverPeriod": "32.7",
+            "effReceivablesTurnoverPeriod": "19.1"
+        }
+    },
+    "삼성바이오로직스": {
+        "id": "00877059",
+        "profit": {
+            "prototalproROE": "9.0",
+            "prototalproOperatingProfitMargin": "30.4",
+            "prototalproNetProfitMargin": "24.2"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "30.2",
+            "grototalisNetIncomeYoY": "46.4",
+            "grototalisOperatingProfitLossYoY": "37.4",
+            "grototalisRevenueYoY": "46.6"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "64.2",
+            "saaverageStaCurrentRatio": "126.7"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "515.2",
+            "effPayablesTurnoverPeriod": "281.0",
+            "effReceivablesTurnoverPeriod": "68.2"
+        }
+    },
+    "기아": {
+        "id": "00106641",
+        "profit": {
+            "prototalproROE": "18.5",
+            "prototalproOperatingProfitMargin": "10.9",
+            "prototalproNetProfitMargin": "8.4"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "15.9",
+            "grototalisNetIncomeYoY": "56.8",
+            "grototalisOperatingProfitLossYoY": "62.3",
+            "grototalisRevenueYoY": "21.1"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "75.1",
+            "saaverageStaCurrentRatio": "141.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "51.9",
+            "effPayablesTurnoverPeriod": "49.3",
+            "effReceivablesTurnoverPeriod": "10.3"
+        }
+    },
+    "셀트리온": {
+        "id": "00413046",
+        "profit": {
+            "prototalproROE": "9.1",
+            "prototalproOperatingProfitMargin": "28.4",
+            "prototalproNetProfitMargin": "23.6"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "124.6",
+            "grototalisNetIncomeYoY": "-4.0",
+            "grototalisOperatingProfitLossYoY": "-8.0",
+            "grototalisRevenueYoY": "2.2"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "17.4",
+            "saaverageStaCurrentRatio": "193.5"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "467.4",
+            "effPayablesTurnoverPeriod": "16.7",
+            "effReceivablesTurnoverPeriod": "260.3"
+        }
+    },
+    "POSCO홀딩스": {
+        "id": "00155319",
+        "profit": {
+            "prototalproROE": "3.0",
+            "prototalproOperatingProfitMargin": "4.0",
+            "prototalproNetProfitMargin": "2.2"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "2.0",
+            "grototalisNetIncomeYoY": "-61.9",
+            "grototalisOperatingProfitLossYoY": "-45.6",
+            "grototalisRevenueYoY": "-6.8"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "70.1",
+            "saaverageStaCurrentRatio": "207.1"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "72.3",
+            "effPayablesTurnoverPeriod": "28.0",
+            "effReceivablesTurnoverPeriod": "52.9"
+        }
+    },
+    "NAVER": {
+        "id": "00266961",
+        "profit": {
+            "prototalproROE": "3.8",
+            "prototalproOperatingProfitMargin": "15.4",
+            "prototalproNetProfitMargin": "9.6"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "1.4",
+            "grototalisNetIncomeYoY": "25.2",
+            "grototalisOperatingProfitLossYoY": "8.7",
+            "grototalisRevenueYoY": "18.4"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "46.6",
+            "saaverageStaCurrentRatio": "121.5"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "NaN",
+            "effPayablesTurnoverPeriod": "NaN",
+            "effReceivablesTurnoverPeriod": "63.9"
+        }
+    },
+    "삼성SDI": {
+        "id": "00126362",
+        "profit": {
+            "prototalproROE": "11.0",
+            "prototalproOperatingProfitMargin": "7.8",
+            "prototalproNetProfitMargin": "9.4"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "14.7",
+            "grototalisNetIncomeYoY": "19.6",
+            "grototalisOperatingProfitLossYoY": "14.1",
+            "grototalisRevenueYoY": "26.6"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "71.5",
+            "saaverageStaCurrentRatio": "105.0"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "66.0",
+            "effPayablesTurnoverPeriod": "93.4",
+            "effReceivablesTurnoverPeriod": "55.3"
+        }
+    },
+    "LG화학": {
+        "id": "00356361",
+        "profit": {
+            "prototalproROE": "4.9",
+            "prototalproOperatingProfitMargin": "4.4",
+            "prototalproNetProfitMargin": "3.6"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "9.0",
+            "grototalisNetIncomeYoY": "-20.8",
+            "grototalisOperatingProfitLossYoY": "-28.0",
+            "grototalisRevenueYoY": "13.0"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "89.7",
+            "saaverageStaCurrentRatio": "159.4"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "83.9",
+            "effPayablesTurnoverPeriod": "57.6",
+            "effReceivablesTurnoverPeriod": "60.0"
+        }
+    },
+    "삼성물산": {
+        "id": "00149655",
+        "profit": {
+            "prototalproROE": "7.2",
+            "prototalproOperatingProfitMargin": "6.7",
+            "prototalproNetProfitMargin": "6.4"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "19.9",
+            "grototalisNetIncomeYoY": "31.0",
+            "grototalisOperatingProfitLossYoY": "43.9",
+            "grototalisRevenueYoY": "4.2"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "65.7",
+            "saaverageStaCurrentRatio": "126.7"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "44.8",
+            "effPayablesTurnoverPeriod": "31.1",
+            "effReceivablesTurnoverPeriod": "53.5"
+        }
+    },
+    "포스코퓨처엠": {
+        "id": "00155276",
+        "profit": {
+            "prototalproROE": "2.6",
+            "prototalproOperatingProfitMargin": "2.5",
+            "prototalproNetProfitMargin": "1.7"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "2.7",
+            "grototalisNetIncomeYoY": "-49.7",
+            "grototalisOperatingProfitLossYoY": "-24.5",
+            "grototalisRevenueYoY": "50.5"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "152.0",
+            "saaverageStaCurrentRatio": "153.0"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "99.9",
+            "effPayablesTurnoverPeriod": "40.1",
+            "effReceivablesTurnoverPeriod": "64.2"
+        }
+    },
+    "현대모비스": {
+        "id": "00164788",
+        "profit": {
+            "prototalproROE": "8.0",
+            "prototalproOperatingProfitMargin": "4.0",
+            "prototalproNetProfitMargin": "5.5"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "7.1",
+            "grototalisNetIncomeYoY": "30.0",
+            "grototalisOperatingProfitLossYoY": "19.2",
+            "grototalisRevenueYoY": "20.1"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "45.3",
+            "saaverageStaCurrentRatio": "209.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "39.5",
+            "effPayablesTurnoverPeriod": "56.9",
+            "effReceivablesTurnoverPeriod": "64.9"
+        }
+    },
+    "카카오": {
+        "id": "00258801",
+        "profit": {
+            "prototalproROE": "-6.2",
+            "prototalproOperatingProfitMargin": "6.2",
+            "prototalproNetProfitMargin": "-11.5"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "0.6",
+            "grototalisNetIncomeYoY": "-290.5",
+            "grototalisOperatingProfitLossYoY": "-17.8",
+            "grototalisRevenueYoY": "9.2"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "82.7",
+            "saaverageStaCurrentRatio": "131.9"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "NaN",
+            "effPayablesTurnoverPeriod": "NaN",
+            "effReceivablesTurnoverPeriod": "30.6"
+        }
+    },
+    "LG전자": {
+        "id": "00401731",
+        "profit": {
+            "prototalproROE": "4.3",
+            "prototalproOperatingProfitMargin": "3.9",
+            "prototalproNetProfitMargin": "1.2"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "2.9",
+            "grototalisNetIncomeYoY": "-34.5",
+            "grototalisOperatingProfitLossYoY": "-12.3",
+            "grototalisRevenueYoY": "3.1"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "153.7",
+            "saaverageStaCurrentRatio": "127.3"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "53.6",
+            "effPayablesTurnoverPeriod": "70.9",
+            "effReceivablesTurnoverPeriod": "44.2"
+        }
+    },
+    "HMM": {
+        "id": "00164645",
+        "profit": {
+            "prototalproROE": "15.1",
+            "prototalproOperatingProfitMargin": "22.4",
+            "prototalproNetProfitMargin": "25.7"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "18.2",
+            "grototalisNetIncomeYoY": "-65.3",
+            "grototalisOperatingProfitLossYoY": "-70.9",
+            "grototalisRevenueYoY": "-36.6"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "21.6",
+            "saaverageStaCurrentRatio": "599.1"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "16.9",
+            "effPayablesTurnoverPeriod": "35.9",
+            "effReceivablesTurnoverPeriod": "36.6"
+        }
+    },
+    "한국전력": {
+        "id": "00159193",
+        "profit": {
+            "prototalproROE": "-34.1",
+            "prototalproOperatingProfitMargin": "-19.2",
+            "prototalproNetProfitMargin": "-15.4"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-22.2",
+            "grototalisNetIncomeYoY": "15.2",
+            "grototalisOperatingProfitLossYoY": "15.6",
+            "grototalisRevenueYoY": "23.4"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "535.1",
+            "saaverageStaCurrentRatio": "44.9"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "34.5",
+            "effPayablesTurnoverPeriod": "36.0",
+            "effReceivablesTurnoverPeriod": "45.6"
+        }
+    },
+    "LG": {
+        "id": "00120021",
+        "profit": {
+            "prototalproROE": "4.7",
+            "prototalproOperatingProfitMargin": "21.6",
+            "prototalproNetProfitMargin": "17.4"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "1.9",
+            "grototalisNetIncomeYoY": "-37.2",
+            "grototalisOperatingProfitLossYoY": "-21.3",
+            "grototalisRevenueYoY": "11.0"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "12.4",
+            "saaverageStaCurrentRatio": "249.4"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "6.0",
+            "effPayablesTurnoverPeriod": "81.5",
+            "effReceivablesTurnoverPeriod": "52.9"
+        }
+    },
+    "삼성에스디에스": {
+        "id": "00126186",
+        "profit": {
+            "prototalproROE": "10.0",
+            "prototalproOperatingProfitMargin": "5.6",
+            "prototalproNetProfitMargin": "6.0"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "8.7",
+            "grototalisNetIncomeYoY": "0.9",
+            "grototalisOperatingProfitLossYoY": "-8.0",
+            "grototalisRevenueYoY": "-10.8"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "37.5",
+            "saaverageStaCurrentRatio": "340.4"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "0.8",
+            "effPayablesTurnoverPeriod": "17.0",
+            "effReceivablesTurnoverPeriod": "38.8"
+        }
+    },
+    "두산에너빌리티": {
+        "id": "00159616",
+        "profit": {
+            "prototalproROE": "1.8",
+            "prototalproOperatingProfitMargin": "8.2",
+            "prototalproNetProfitMargin": "1.1"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "4.5",
+            "grototalisNetIncomeYoY": "65.0",
+            "grototalisOperatingProfitLossYoY": "48.5",
+            "grototalisRevenueYoY": "30.3"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "127.7",
+            "saaverageStaCurrentRatio": "104.0"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "68.2",
+            "effPayablesTurnoverPeriod": "61.8",
+            "effReceivablesTurnoverPeriod": "33.5"
+        }
+    },
+    "크래프톤": {
+        "id": "00760971",
+        "profit": {
+            "prototalproROE": "9.6",
+            "prototalproOperatingProfitMargin": "39.1",
+            "prototalproNetProfitMargin": "28.2"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "7.9",
+            "grototalisNetIncomeYoY": "-3.2",
+            "grototalisOperatingProfitLossYoY": "5.5",
+            "grototalisRevenueYoY": "2.3"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "16.4",
+            "saaverageStaCurrentRatio": "716.6"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "NaN",
+            "effPayablesTurnoverPeriod": "NaN",
+            "effReceivablesTurnoverPeriod": "141.3"
+        }
+    },
+    "SK": {
+        "id": "00181712",
+        "profit": {
+            "prototalproROE": "-0.4",
+            "prototalproOperatingProfitMargin": "3.6",
+            "prototalproNetProfitMargin": "-0.3"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "6.7",
+            "grototalisNetIncomeYoY": "-98.8",
+            "grototalisOperatingProfitLossYoY": "-34.2",
+            "grototalisRevenueYoY": "8.4"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "167.9",
+            "saaverageStaCurrentRatio": "99.9"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "47.3",
+            "effPayablesTurnoverPeriod": "41.4",
+            "effReceivablesTurnoverPeriod": "38.9"
+        }
+    },
+    "삼성전기": {
+        "id": "00126371",
+        "profit": {
+            "prototalproROE": "7.3",
+            "prototalproOperatingProfitMargin": "8.2",
+            "prototalproNetProfitMargin": "6.6"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "5.6",
+            "grototalisNetIncomeYoY": "-39.0",
+            "grototalisOperatingProfitLossYoY": "-44.3",
+            "grototalisRevenueYoY": "-6.5"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "46.7",
+            "saaverageStaCurrentRatio": "177.2"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "103.8",
+            "effPayablesTurnoverPeriod": "60.5",
+            "effReceivablesTurnoverPeriod": "50.8"
+        }
+    },
+    "HD현대중공업": {
+        "id": "01390344",
+        "profit": {
+            "prototalproROE": "-1.4",
+            "prototalproOperatingProfitMargin": "0.7",
+            "prototalproNetProfitMargin": "-0.7"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-2.1",
+            "grototalisNetIncomeYoY": "97.2",
+            "grototalisOperatingProfitLossYoY": "156.1",
+            "grototalisRevenueYoY": "25.3"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "231.1",
+            "saaverageStaCurrentRatio": "87.5"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "49.7",
+            "effPayablesTurnoverPeriod": "69.4",
+            "effReceivablesTurnoverPeriod": "46.1"
+        }
+    },
+    "KT&G": {
+        "id": "00244455",
+        "profit": {
+            "prototalproROE": "9.8",
+            "prototalproOperatingProfitMargin": "20.1",
+            "prototalproNetProfitMargin": "15.5"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-0.9",
+            "grototalisNetIncomeYoY": "-12.6",
+            "grototalisOperatingProfitLossYoY": "-10.8",
+            "grototalisRevenueYoY": "3.9"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "41.0",
+            "saaverageStaCurrentRatio": "225.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "326.9",
+            "effPayablesTurnoverPeriod": "213.9",
+            "effReceivablesTurnoverPeriod": "103.7"
+        }
+    },
+    "SK텔레콤": {
+        "id": "00159023",
+        "profit": {
+            "prototalproROE": "9.2",
+            "prototalproOperatingProfitMargin": "9.4",
+            "prototalproNetProfitMargin": "6.2"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "0.9",
+            "grototalisNetIncomeYoY": "-5.1",
+            "grototalisOperatingProfitLossYoY": "10.5",
+            "grototalisRevenueYoY": "12.6"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "144.8",
+            "saaverageStaCurrentRatio": "96.1"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "NaN",
+            "effPayablesTurnoverPeriod": "NaN",
+            "effReceivablesTurnoverPeriod": "39.9"
+        }
+    },
+    "아모레퍼시픽": {
+        "id": "00583424",
+        "profit": {
+            "prototalproROE": "3.1",
+            "prototalproOperatingProfitMargin": "3.4",
+            "prototalproNetProfitMargin": "4.0"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "1.5",
+            "grototalisNetIncomeYoY": "82.5",
+            "grototalisOperatingProfitLossYoY": "-33.7",
+            "grototalisRevenueYoY": "-12.4"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "21.9",
+            "saaverageStaCurrentRatio": "236.6"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "115.7",
+            "effPayablesTurnoverPeriod": "43.5",
+            "effReceivablesTurnoverPeriod": "32.3"
+        }
+    },
+    "한화에어로스페이스": {
+        "id": "00126566",
+        "profit": {
+            "prototalproROE": "16.2",
+            "prototalproOperatingProfitMargin": "6.9",
+            "prototalproNetProfitMargin": "9.1"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "14.3",
+            "grototalisNetIncomeYoY": "370.9",
+            "grototalisOperatingProfitLossYoY": "63.0",
+            "grototalisRevenueYoY": "33.6"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "330.3",
+            "saaverageStaCurrentRatio": "79.1"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "166.6",
+            "effPayablesTurnoverPeriod": "80.1",
+            "effReceivablesTurnoverPeriod": "81.3"
+        }
+    },
+    "고려아연": {
+        "id": "00102858",
+        "profit": {
+            "prototalproROE": "6.4",
+            "prototalproOperatingProfitMargin": "6.4",
+            "prototalproNetProfitMargin": "5.8"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "11.1",
+            "grototalisNetIncomeYoY": "-23.2",
+            "grototalisOperatingProfitLossYoY": "-34.4",
+            "grototalisRevenueYoY": "-6.4"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "24.4",
+            "saaverageStaCurrentRatio": "299.6"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "102.8",
+            "effPayablesTurnoverPeriod": "35.4",
+            "effReceivablesTurnoverPeriod": "25.1"
+        }
+    },
+    "HD현대일렉트릭": {
+        "id": "01205851",
+        "profit": {
+            "prototalproROE": "23.3",
+            "prototalproOperatingProfitMargin": "9.9",
+            "prototalproNetProfitMargin": "8.7"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "27.6",
+            "grototalisNetIncomeYoY": "291.7",
+            "grototalisOperatingProfitLossYoY": "877.5",
+            "grototalisRevenueYoY": "28.1"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "176.8",
+            "saaverageStaCurrentRatio": "131.2"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "146.0",
+            "effPayablesTurnoverPeriod": "75.5",
+            "effReceivablesTurnoverPeriod": "90.5"
+        }
+    },
+    "SK이노베이션": {
+        "id": "00631518",
+        "profit": {
+            "prototalproROE": "1.2",
+            "prototalproOperatingProfitMargin": "2.1",
+            "prototalproNetProfitMargin": "0.4"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "22.9",
+            "grototalisNetIncomeYoY": "-75.3",
+            "grototalisOperatingProfitLossYoY": "-50.4",
+            "grototalisRevenueYoY": "15.4"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "172.6",
+            "saaverageStaCurrentRatio": "114.1"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "59.0",
+            "effPayablesTurnoverPeriod": "46.3",
+            "effReceivablesTurnoverPeriod": "30.2"
+        }
+    },
+    "KT": {
+        "id": "00190321",
+        "profit": {
+            "prototalproROE": "6.4",
+            "prototalproOperatingProfitMargin": "6.2",
+            "prototalproNetProfitMargin": "4.5"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "5.3",
+            "grototalisNetIncomeYoY": "-20.0",
+            "grototalisOperatingProfitLossYoY": "-8.0",
+            "grototalisRevenueYoY": "2.6"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "129.9",
+            "saaverageStaCurrentRatio": "108.6"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "NaN",
+            "effPayablesTurnoverPeriod": "NaN",
+            "effReceivablesTurnoverPeriod": "93.2"
+        }
+    },
+    "HD한국조선해양": {
+        "id": "00164830",
+        "profit": {
+            "prototalproROE": "0.8",
+            "prototalproOperatingProfitMargin": "1.3",
+            "prototalproNetProfitMargin": "0.4"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "1.0",
+            "grototalisNetIncomeYoY": "171.8",
+            "grototalisOperatingProfitLossYoY": "509.6",
+            "grototalisRevenueYoY": "20.2"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "159.8",
+            "saaverageStaCurrentRatio": "101.6"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "41.0",
+            "effPayablesTurnoverPeriod": "61.9",
+            "effReceivablesTurnoverPeriod": "23.3"
+        }
+    },
+    "한화오션": {
+        "id": "00111704",
+        "profit": {
+            "prototalproROE": "-57.9",
+            "prototalproOperatingProfitMargin": "-11.7",
+            "prototalproNetProfitMargin": "-10.9"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "359.9",
+            "grototalisNetIncomeYoY": "76.4",
+            "grototalisOperatingProfitLossYoY": "64.3",
+            "grototalisRevenueYoY": "45.4"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "232.4",
+            "saaverageStaCurrentRatio": "122.3"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "149.2",
+            "effPayablesTurnoverPeriod": "54.3",
+            "effReceivablesTurnoverPeriod": "13.4"
+        }
+    },
+    "포스코인터내셔널": {
+        "id": "00124504",
+        "profit": {
+            "prototalproROE": "10.1",
+            "prototalproOperatingProfitMargin": "3.2",
+            "prototalproNetProfitMargin": "2.0"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "43.3",
+            "grototalisNetIncomeYoY": "20.5",
+            "grototalisOperatingProfitLossYoY": "28.1",
+            "grototalisRevenueYoY": "-10.6"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "152.7",
+            "saaverageStaCurrentRatio": "123.1"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "23.0",
+            "effPayablesTurnoverPeriod": "35.7",
+            "effReceivablesTurnoverPeriod": "51.0"
+        }
+    },
+    "하이브": {
+        "id": "01204056",
+        "profit": {
+            "prototalproROE": "3.3",
+            "prototalproOperatingProfitMargin": "12.7",
+            "prototalproNetProfitMargin": "4.9"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-0.5",
+            "grototalisNetIncomeYoY": "76.3",
+            "grototalisOperatingProfitLossYoY": "8.4",
+            "grototalisRevenueYoY": "24.8"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "69.8",
+            "saaverageStaCurrentRatio": "102.4"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "39.2",
+            "effPayablesTurnoverPeriod": "15.6",
+            "effReceivablesTurnoverPeriod": "40.5"
+        }
+    },
+    "삼성중공업": {
+        "id": "00126478",
+        "profit": {
+            "prototalproROE": "-8.1",
+            "prototalproOperatingProfitMargin": "-3.0",
+            "prototalproNetProfitMargin": "-4.4"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-8.0",
+            "grototalisNetIncomeYoY": "57.9",
+            "grototalisOperatingProfitLossYoY": "80.4",
+            "grototalisRevenueYoY": "18.9"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "351.4",
+            "saaverageStaCurrentRatio": "82.7"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "85.9",
+            "effPayablesTurnoverPeriod": "40.1",
+            "effReceivablesTurnoverPeriod": "24.8"
+        }
+    },
+    "대한항공": {
+        "id": "00113526",
+        "profit": {
+            "prototalproROE": "13.7",
+            "prototalproOperatingProfitMargin": "13.4",
+            "prototalproNetProfitMargin": "8.5"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "16.6",
+            "grototalisNetIncomeYoY": "-10.3",
+            "grototalisOperatingProfitLossYoY": "-17.8",
+            "grototalisRevenueYoY": "25.1"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "211.7",
+            "saaverageStaCurrentRatio": "88.9"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "24.3",
+            "effPayablesTurnoverPeriod": "38.9",
+            "effReceivablesTurnoverPeriod": "26.5"
+        }
+    },
+    "S-Oil": {
+        "id": "00138279",
+        "profit": {
+            "prototalproROE": "10.9",
+            "prototalproOperatingProfitMargin": "3.8",
+            "prototalproNetProfitMargin": "2.5"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "6.3",
+            "grototalisNetIncomeYoY": "-50.8",
+            "grototalisOperatingProfitLossYoY": "-53.0",
+            "grototalisRevenueYoY": "0.3"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "142.9",
+            "saaverageStaCurrentRatio": "103.3"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "50.1",
+            "effPayablesTurnoverPeriod": "44.0",
+            "effReceivablesTurnoverPeriod": "23.1"
+        }
+    },
+    "현대글로비스": {
+        "id": "00360595",
+        "profit": {
+            "prototalproROE": "15.2",
+            "prototalproOperatingProfitMargin": "6.3",
+            "prototalproNetProfitMargin": "4.3"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "14.6",
+            "grototalisNetIncomeYoY": "5.7",
+            "grototalisOperatingProfitLossYoY": "3.6",
+            "grototalisRevenueYoY": "3.6"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "92.4",
+            "saaverageStaCurrentRatio": "186.4"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "20.7",
+            "effPayablesTurnoverPeriod": "29.3",
+            "effReceivablesTurnoverPeriod": "41.0"
+        }
+    },
+    "SK바이오팜": {
+        "id": "00878696",
+        "profit": {
+            "prototalproROE": "-21.6",
+            "prototalproOperatingProfitMargin": "-24.4",
+            "prototalproNetProfitMargin": "-23.0"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-10.5",
+            "grototalisNetIncomeYoY": "11.0",
+            "grototalisOperatingProfitLossYoY": "-432.8",
+            "grototalisRevenueYoY": "6.8"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "129.0",
+            "saaverageStaCurrentRatio": "179.4"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "1090.7",
+            "effPayablesTurnoverPeriod": "83.2",
+            "effReceivablesTurnoverPeriod": "106.0"
+        }
+    },
+    "에코프로머티": {
+        "id": "01311408",
+        "profit": {
+            "prototalproROE": "-0.3",
+            "prototalproOperatingProfitMargin": "-0.4",
+            "prototalproNetProfitMargin": "-0.3"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "143.6",
+            "grototalisNetIncomeYoY": "-255.9",
+            "grototalisOperatingProfitLossYoY": "-254.6",
+            "grototalisRevenueYoY": "-66.3"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "38.0",
+            "saaverageStaCurrentRatio": "207.4"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "61.9",
+            "effPayablesTurnoverPeriod": "5.6",
+            "effReceivablesTurnoverPeriod": "53.2"
+        }
+    },
+    "유한양행": {
+        "id": "00145109",
+        "profit": {
+            "prototalproROE": "5.0",
+            "prototalproOperatingProfitMargin": "3.0",
+            "prototalproNetProfitMargin": "5.6"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "4.2",
+            "grototalisNetIncomeYoY": "15.0",
+            "grototalisOperatingProfitLossYoY": "65.9",
+            "grototalisRevenueYoY": "4.5"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "34.0",
+            "saaverageStaCurrentRatio": "218.4"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "79.7",
+            "effPayablesTurnoverPeriod": "51.9",
+            "effReceivablesTurnoverPeriod": "106.5"
+        }
+    },
+    "LG생활건강": {
+        "id": "00356370",
+        "profit": {
+            "prototalproROE": "3.5",
+            "prototalproOperatingProfitMargin": "8.1",
+            "prototalproNetProfitMargin": "2.7"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "1.7",
+            "grototalisNetIncomeYoY": "-51.8",
+            "grototalisOperatingProfitLossYoY": "-33.0",
+            "grototalisRevenueYoY": "-5.3"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "31.4",
+            "saaverageStaCurrentRatio": "218.9"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "102.2",
+            "effPayablesTurnoverPeriod": "63.6",
+            "effReceivablesTurnoverPeriod": "45.6"
+        }
+    },
+    "LS ELECTRIC": {
+        "id": "00105855",
+        "profit": {
+            "prototalproROE": "10.6",
+            "prototalproOperatingProfitMargin": "7.1",
+            "prototalproNetProfitMargin": "4.3"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "9.1",
+            "grototalisNetIncomeYoY": "80.5",
+            "grototalisOperatingProfitLossYoY": "47.6",
+            "grototalisRevenueYoY": "26.3"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "122.3",
+            "saaverageStaCurrentRatio": "171.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "57.2",
+            "effPayablesTurnoverPeriod": "46.0",
+            "effReceivablesTurnoverPeriod": "73.6"
+        }
+    },
+    "포스코DX": {
+        "id": "00155212",
+        "profit": {
+            "prototalproROE": "17.7",
+            "prototalproOperatingProfitMargin": "6.9",
+            "prototalproNetProfitMargin": "5.4"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "13.6",
+            "grototalisNetIncomeYoY": "113.5",
+            "grototalisOperatingProfitLossYoY": "161.0",
+            "grototalisRevenueYoY": "39.9"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "87.8",
+            "saaverageStaCurrentRatio": "159.3"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "5.5",
+            "effPayablesTurnoverPeriod": "40.0",
+            "effReceivablesTurnoverPeriod": "59.2"
+        }
+    },
+    "LG이노텍": {
+        "id": "00105961",
+        "profit": {
+            "prototalproROE": "13.3",
+            "prototalproOperatingProfitMargin": "4.0",
+            "prototalproNetProfitMargin": "2.9"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "12.1",
+            "grototalisNetIncomeYoY": "-34.9",
+            "grototalisOperatingProfitLossYoY": "-36.5",
+            "grototalisRevenueYoY": "11.3"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "131.8",
+            "saaverageStaCurrentRatio": "132.7"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "36.4",
+            "effPayablesTurnoverPeriod": "51.7",
+            "effReceivablesTurnoverPeriod": "35.5"
+        }
+    },
+    "SKC": {
+        "id": "00139889",
+        "profit": {
+            "prototalproROE": "-12.9",
+            "prototalproOperatingProfitMargin": "-8.1",
+            "prototalproNetProfitMargin": "-16.0"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-4.7",
+            "grototalisNetIncomeYoY": "-375.6",
+            "grototalisOperatingProfitLossYoY": "-210.4",
+            "grototalisRevenueYoY": "-39.0"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "177.6",
+            "saaverageStaCurrentRatio": "105.7"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "80.1",
+            "effPayablesTurnoverPeriod": "45.4",
+            "effReceivablesTurnoverPeriod": "53.5"
+        }
+    },
+    "두산밥캣": {
+        "id": "01032486",
+        "profit": {
+            "prototalproROE": "-873.4",
+            "prototalproOperatingProfitMargin": "14.3",
+            "prototalproNetProfitMargin": "9.1"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-28.3",
+            "grototalisNetIncomeYoY": "19.8",
+            "grototalisOperatingProfitLossYoY": "-1.5",
+            "grototalisRevenueYoY": "-22.9"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "76.2",
+            "saaverageStaCurrentRatio": "159.3"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "71.5",
+            "effPayablesTurnoverPeriod": "73.1",
+            "effReceivablesTurnoverPeriod": "18.7"
+        }
+    },
+    "한국타이어앤테크놀로지": {
+        "id": "00937324",
+        "profit": {
+            "prototalproROE": "7.4",
+            "prototalproOperatingProfitMargin": "12.4",
+            "prototalproNetProfitMargin": "7.9"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "7.8",
+            "grototalisNetIncomeYoY": "6.0",
+            "grototalisOperatingProfitLossYoY": "69.5",
+            "grototalisRevenueYoY": "11.7"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "33.2",
+            "saaverageStaCurrentRatio": "283.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "128.1",
+            "effPayablesTurnoverPeriod": "75.1",
+            "effReceivablesTurnoverPeriod": "78.9"
+        }
+    },
+    "HD현대": {
+        "id": "01205709",
+        "profit": {
+            "prototalproROE": "4.9",
+            "prototalproOperatingProfitMargin": "3.7",
+            "prototalproNetProfitMargin": "1.8"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "3.5",
+            "grototalisNetIncomeYoY": "26.2",
+            "grototalisOperatingProfitLossYoY": "4.5",
+            "grototalisRevenueYoY": "31.7"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "195.5",
+            "saaverageStaCurrentRatio": "111.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "61.8",
+            "effPayablesTurnoverPeriod": "69.3",
+            "effReceivablesTurnoverPeriod": "44.8"
+        }
+    },
+    "넷마블": {
+        "id": "00904672",
+        "profit": {
+            "prototalproROE": "-10.4",
+            "prototalproOperatingProfitMargin": "-3.6",
+            "prototalproNetProfitMargin": "-21.9"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-7.5",
+            "grototalisNetIncomeYoY": "-599.3",
+            "grototalisOperatingProfitLossYoY": "-175.5",
+            "grototalisRevenueYoY": "-3.9"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "58.6",
+            "saaverageStaCurrentRatio": "57.6"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "NaN",
+            "effPayablesTurnoverPeriod": "NaN",
+            "effReceivablesTurnoverPeriod": "32.1"
+        }
+    },
+    "LG디스플레이": {
+        "id": "00105873",
+        "profit": {
+            "prototalproROE": "-39.4",
+            "prototalproOperatingProfitMargin": "-13.2",
+            "prototalproNetProfitMargin": "-16.6"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-26.7",
+            "grototalisNetIncomeYoY": "-485.6",
+            "grototalisOperatingProfitLossYoY": "-278.7",
+            "grototalisRevenueYoY": "-17.0"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "293.1",
+            "saaverageStaCurrentRatio": "71.0"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "48.3",
+            "effPayablesTurnoverPeriod": "71.2",
+            "effReceivablesTurnoverPeriod": "47.0"
+        }
+    },
+    "한화솔루션": {
+        "id": "00162461",
+        "profit": {
+            "prototalproROE": "-0.7",
+            "prototalproOperatingProfitMargin": "5.2",
+            "prototalproNetProfitMargin": "-0.5"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-0.5",
+            "grototalisNetIncomeYoY": "-108.6",
+            "grototalisOperatingProfitLossYoY": "-5.9",
+            "grototalisRevenueYoY": "6.3"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "191.9",
+            "saaverageStaCurrentRatio": "109.1"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "112.4",
+            "effPayablesTurnoverPeriod": "66.1",
+            "effReceivablesTurnoverPeriod": "56.9"
+        }
+    },
+    "CJ제일제당": {
+        "id": "00635134",
+        "profit": {
+            "prototalproROE": "4.7",
+            "prototalproOperatingProfitMargin": "4.6",
+            "prototalproNetProfitMargin": "1.9"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "1.3",
+            "grototalisNetIncomeYoY": "-30.0",
+            "grototalisOperatingProfitLossYoY": "-15.3",
+            "grototalisRevenueYoY": "1.9"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "153.9",
+            "saaverageStaCurrentRatio": "94.0"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "46.2",
+            "effPayablesTurnoverPeriod": "83.0",
+            "effReceivablesTurnoverPeriod": "50.8"
+        }
+    },
+    "한국항공우주": {
+        "id": "00309503",
+        "profit": {
+            "prototalproROE": "5.6",
+            "prototalproOperatingProfitMargin": "4.0",
+            "prototalproNetProfitMargin": "2.9"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "9.5",
+            "grototalisNetIncomeYoY": "37.8",
+            "grototalisOperatingProfitLossYoY": "66.4",
+            "grototalisRevenueYoY": "23.0"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "343.4",
+            "saaverageStaCurrentRatio": "105.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "269.0",
+            "effPayablesTurnoverPeriod": "36.0",
+            "effReceivablesTurnoverPeriod": "40.1"
+        }
+    },
+    "롯데케미칼": {
+        "id": "00165413",
+        "profit": {
+            "prototalproROE": "-0.2",
+            "prototalproOperatingProfitMargin": "-2.9",
+            "prototalproNetProfitMargin": "-0.3"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "18.1",
+            "grototalisNetIncomeYoY": "-171.7",
+            "grototalisOperatingProfitLossYoY": "-94.6",
+            "grototalisRevenueYoY": "-2.5"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "68.8",
+            "saaverageStaCurrentRatio": "137.1"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "51.2",
+            "effPayablesTurnoverPeriod": "35.0",
+            "effReceivablesTurnoverPeriod": "43.0"
+        }
+    },
+    "금양": {
+        "id": "00106119",
+        "profit": {
+            "prototalproROE": "-29.0",
+            "prototalproOperatingProfitMargin": "-7.6",
+            "prototalproNetProfitMargin": "-35.5"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "51.4",
+            "grototalisNetIncomeYoY": "-293.0",
+            "grototalisOperatingProfitLossYoY": "-380.5",
+            "grototalisRevenueYoY": "-22.8"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "225.4",
+            "saaverageStaCurrentRatio": "25.6"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "92.3",
+            "effPayablesTurnoverPeriod": "56.1",
+            "effReceivablesTurnoverPeriod": "85.5"
+        }
+    },
+    "LS": {
+        "id": "00105952",
+        "profit": {
+            "prototalproROE": "8.2",
+            "prototalproOperatingProfitMargin": "3.7",
+            "prototalproNetProfitMargin": "2.2"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "19.4",
+            "grototalisNetIncomeYoY": "14.7",
+            "grototalisOperatingProfitLossYoY": "28.7",
+            "grototalisRevenueYoY": "43.6"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "172.3",
+            "saaverageStaCurrentRatio": "132.3"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "82.7",
+            "effPayablesTurnoverPeriod": "27.0",
+            "effReceivablesTurnoverPeriod": "55.8"
+        }
+    },
+    "삼성E&A": {
+        "id": "00126308",
+        "profit": {
+            "prototalproROE": "24.0",
+            "prototalproOperatingProfitMargin": "8.2",
+            "prototalproNetProfitMargin": "6.9"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "30.2",
+            "grototalisNetIncomeYoY": "50.2",
+            "grototalisOperatingProfitLossYoY": "45.1",
+            "grototalisRevenueYoY": "13.3"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "131.3",
+            "saaverageStaCurrentRatio": "144.2"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "NaN",
+            "effPayablesTurnoverPeriod": "29.8",
+            "effReceivablesTurnoverPeriod": "59.8"
+        }
+    },
+    "엔씨소프트": {
+        "id": "00261443",
+        "profit": {
+            "prototalproROE": "7.5",
+            "prototalproOperatingProfitMargin": "10.9",
+            "prototalproNetProfitMargin": "12.1"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "1.3",
+            "grototalisNetIncomeYoY": "-49.4",
+            "grototalisOperatingProfitLossYoY": "-60.3",
+            "grototalisRevenueYoY": "-24.6"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "33.4",
+            "saaverageStaCurrentRatio": "397.4"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "NaN",
+            "effPayablesTurnoverPeriod": "NaN",
+            "effReceivablesTurnoverPeriod": "28.9"
+        }
+    },
+    "삼양식품": {
+        "id": "00126955",
+        "profit": {
+            "prototalproROE": "20.4",
+            "prototalproOperatingProfitMargin": "11.9",
+            "prototalproNetProfitMargin": "10.0"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "24.0",
+            "grototalisNetIncomeYoY": "42.1",
+            "grototalisOperatingProfitLossYoY": "54.0",
+            "grototalisRevenueYoY": "31.2"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "98.1",
+            "saaverageStaCurrentRatio": "120.2"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "60.9",
+            "effPayablesTurnoverPeriod": "48.3",
+            "effReceivablesTurnoverPeriod": "28.8"
+        }
+    },
+    "한진칼": {
+        "id": "00983040",
+        "profit": {
+            "prototalproROE": "13.5",
+            "prototalproOperatingProfitMargin": "21.7",
+            "prototalproNetProfitMargin": "173.3"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "18.3",
+            "grototalisNetIncomeYoY": "16.2",
+            "grototalisOperatingProfitLossYoY": "147.9",
+            "grototalisRevenueYoY": "7.3"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "32.0",
+            "saaverageStaCurrentRatio": "67.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "15.1",
+            "effPayablesTurnoverPeriod": "230.0",
+            "effReceivablesTurnoverPeriod": "101.3"
+        }
+    },
+    "카카오페이": {
+        "id": "01244601",
+        "profit": {
+            "prototalproROE": "0.1",
+            "prototalproOperatingProfitMargin": "-9.7",
+            "prototalproNetProfitMargin": "0.7"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "5.5",
+            "grototalisNetIncomeYoY": "-192.1",
+            "grototalisOperatingProfitLossYoY": "-8.5",
+            "grototalisRevenueYoY": "19.2"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "108.5",
+            "saaverageStaCurrentRatio": "216.3"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "NaN",
+            "effPayablesTurnoverPeriod": "NaN",
+            "effReceivablesTurnoverPeriod": "6.1"
+        }
+    },
+    "LG유플러스": {
+        "id": "00231363",
+        "profit": {
+            "prototalproROE": "7.6",
+            "prototalproOperatingProfitMargin": "7.4",
+            "prototalproNetProfitMargin": "4.6"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "4.5",
+            "grototalisNetIncomeYoY": "0.7",
+            "grototalisOperatingProfitLossYoY": "5.2",
+            "grototalisRevenueYoY": "2.1"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "131.8",
+            "saaverageStaCurrentRatio": "90.2"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "NaN",
+            "effPayablesTurnoverPeriod": "NaN",
+            "effReceivablesTurnoverPeriod": "90.4"
+        }
+    },
+    "코웨이": {
+        "id": "00170558",
+        "profit": {
+            "prototalproROE": "17.9",
+            "prototalproOperatingProfitMargin": "18.2",
+            "prototalproNetProfitMargin": "11.5"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "16.0",
+            "grototalisNetIncomeYoY": "-3.2",
+            "grototalisOperatingProfitLossYoY": "8.6",
+            "grototalisRevenueYoY": "3.5"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "84.8",
+            "saaverageStaCurrentRatio": "104.5"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "56.8",
+            "effPayablesTurnoverPeriod": "19.8",
+            "effReceivablesTurnoverPeriod": "20.9"
+        }
+    },
+    "금호석유": {
+        "id": "00106368",
+        "profit": {
+            "prototalproROE": "9.7",
+            "prototalproOperatingProfitMargin": "7.4",
+            "prototalproNetProfitMargin": "8.2"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "5.4",
+            "grototalisNetIncomeYoY": "-55.7",
+            "grototalisOperatingProfitLossYoY": "-66.6",
+            "grototalisRevenueYoY": "-19.8"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "39.1",
+            "saaverageStaCurrentRatio": "164.6"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "49.3",
+            "effPayablesTurnoverPeriod": "32.2",
+            "effReceivablesTurnoverPeriod": "42.9"
+        }
+    },
+    "한국가스공사": {
+        "id": "00261285",
+        "profit": {
+            "prototalproROE": "2.0",
+            "prototalproOperatingProfitMargin": "4.0",
+            "prototalproNetProfitMargin": "0.3"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "3.1",
+            "grototalisNetIncomeYoY": "-82.3",
+            "grototalisOperatingProfitLossYoY": "10.8",
+            "grototalisRevenueYoY": "17.6"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "470.8",
+            "saaverageStaCurrentRatio": "77.7"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "41.8",
+            "effPayablesTurnoverPeriod": "NaN",
+            "effReceivablesTurnoverPeriod": "50.9"
+        }
+    },
+    "현대로템": {
+        "id": "00302926",
+        "profit": {
+            "prototalproROE": "12.1",
+            "prototalproOperatingProfitMargin": "5.7",
+            "prototalproNetProfitMargin": "5.7"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "15.9",
+            "grototalisNetIncomeYoY": "115.3",
+            "grototalisOperatingProfitLossYoY": "72.2",
+            "grototalisRevenueYoY": "13.4"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "209.8",
+            "saaverageStaCurrentRatio": "114.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "36.3",
+            "effPayablesTurnoverPeriod": "45.2",
+            "effReceivablesTurnoverPeriod": "43.8"
+        }
+    },
+    "SK바이오사이언스": {
+        "id": "01319899",
+        "profit": {
+            "prototalproROE": "2.2",
+            "prototalproOperatingProfitMargin": "-0.3",
+            "prototalproNetProfitMargin": "10.1"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "0.7",
+            "grototalisNetIncomeYoY": "-81.5",
+            "grototalisOperatingProfitLossYoY": "-104.1",
+            "grototalisRevenueYoY": "-39.0"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "11.1",
+            "saaverageStaCurrentRatio": "1026.7"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "274.1",
+            "effPayablesTurnoverPeriod": "57.3",
+            "effReceivablesTurnoverPeriod": "59.6"
+        }
+    },
+    "현대제철": {
+        "id": "00145880",
+        "profit": {
+            "prototalproROE": "2.4",
+            "prototalproOperatingProfitMargin": "3.2",
+            "prototalproNetProfitMargin": "1.8"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "2.7",
+            "grototalisNetIncomeYoY": "-66.8",
+            "grototalisOperatingProfitLossYoY": "-61.6",
+            "grototalisRevenueYoY": "-2.1"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "80.7",
+            "saaverageStaCurrentRatio": "149.6"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "99.8",
+            "effPayablesTurnoverPeriod": "46.4",
+            "effReceivablesTurnoverPeriod": "46.8"
+        }
+    },
+    "GS": {
+        "id": "00500254",
+        "profit": {
+            "prototalproROE": "10.0",
+            "prototalproOperatingProfitMargin": "14.9",
+            "prototalproNetProfitMargin": "6.4"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "8.2",
+            "grototalisNetIncomeYoY": "-22.6",
+            "grototalisOperatingProfitLossYoY": "-4.9",
+            "grototalisRevenueYoY": "1.4"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "95.8",
+            "saaverageStaCurrentRatio": "92.6"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "12.7",
+            "effPayablesTurnoverPeriod": "52.1",
+            "effReceivablesTurnoverPeriod": "33.6"
+        }
+    },
+    "한미약품": {
+        "id": "00828497",
+        "profit": {
+            "prototalproROE": "13.5",
+            "prototalproOperatingProfitMargin": "13.9",
+            "prototalproNetProfitMargin": "10.3"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "9.6",
+            "grototalisNetIncomeYoY": "46.3",
+            "grototalisOperatingProfitLossYoY": "27.6",
+            "grototalisRevenueYoY": "9.6"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "70.8",
+            "saaverageStaCurrentRatio": "106.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "167.0",
+            "effPayablesTurnoverPeriod": "71.0",
+            "effReceivablesTurnoverPeriod": "37.9"
+        }
+    },
+    "LIG넥스원": {
+        "id": "00503668",
+        "profit": {
+            "prototalproROE": "13.8",
+            "prototalproOperatingProfitMargin": "7.9",
+            "prototalproNetProfitMargin": "6.0"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "13.7",
+            "grototalisNetIncomeYoY": "2.4",
+            "grototalisOperatingProfitLossYoY": "13.2",
+            "grototalisRevenueYoY": "12.1"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "283.9",
+            "saaverageStaCurrentRatio": "95.5"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "40.4",
+            "effPayablesTurnoverPeriod": "30.2",
+            "effReceivablesTurnoverPeriod": "48.9"
+        }
+    },
+    "CJ": {
+        "id": "00148540",
+        "profit": {
+            "prototalproROE": "2.5",
+            "prototalproOperatingProfitMargin": "4.7",
+            "prototalproNetProfitMargin": "1.1"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "1.9",
+            "grototalisNetIncomeYoY": "-33.4",
+            "grototalisOperatingProfitLossYoY": "-3.6",
+            "grototalisRevenueYoY": "6.8"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "167.2",
+            "saaverageStaCurrentRatio": "89.2"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "42.1",
+            "effPayablesTurnoverPeriod": "36.1",
+            "effReceivablesTurnoverPeriod": "37.0"
+        }
+    },
+    "현대건설": {
+        "id": "00164478",
+        "profit": {
+            "prototalproROE": "5.0",
+            "prototalproOperatingProfitMargin": "2.6",
+            "prototalproNetProfitMargin": "1.9"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "4.6",
+            "grototalisNetIncomeYoY": "-1.4",
+            "grototalisOperatingProfitLossYoY": "10.3",
+            "grototalisRevenueYoY": "33.7"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "127.9",
+            "saaverageStaCurrentRatio": "179.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "11.9",
+            "effPayablesTurnoverPeriod": "78.4",
+            "effReceivablesTurnoverPeriod": "97.7"
+        }
+    },
+    "오리온": {
+        "id": "01238169",
+        "profit": {
+            "prototalproROE": "14.2",
+            "prototalproOperatingProfitMargin": "16.6",
+            "prototalproNetProfitMargin": "13.8"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "9.2",
+            "grototalisNetIncomeYoY": "18.9",
+            "grototalisOperatingProfitLossYoY": "13.2",
+            "grototalisRevenueYoY": "8.9"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "18.7",
+            "saaverageStaCurrentRatio": "353.1"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "47.2",
+            "effPayablesTurnoverPeriod": "21.7",
+            "effReceivablesTurnoverPeriod": "22.2"
+        }
+    },
+    "강원랜드": {
+        "id": "00255619",
+        "profit": {
+            "prototalproROE": "8.1",
+            "prototalproOperatingProfitMargin": "19.9",
+            "prototalproNetProfitMargin": "20.7"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "6.7",
+            "grototalisNetIncomeYoY": "363.7",
+            "grototalisOperatingProfitLossYoY": "361.4",
+            "grototalisRevenueYoY": "23.8"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "23.9",
+            "saaverageStaCurrentRatio": "177.7"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "1.7",
+            "effPayablesTurnoverPeriod": "218.5",
+            "effReceivablesTurnoverPeriod": "5.7"
+        }
+    },
+    "두산": {
+        "id": "00117212",
+        "profit": {
+            "prototalproROE": "-0.3",
+            "prototalproOperatingProfitMargin": "7.4",
+            "prototalproNetProfitMargin": "-0.2"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "7.3",
+            "grototalisNetIncomeYoY": "-195.8",
+            "grototalisOperatingProfitLossYoY": "41.3",
+            "grototalisRevenueYoY": "25.5"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "153.5",
+            "saaverageStaCurrentRatio": "102.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "71.8",
+            "effPayablesTurnoverPeriod": "61.5",
+            "effReceivablesTurnoverPeriod": "36.8"
+        }
+    },
+    "한화시스템": {
+        "id": "00339391",
+        "profit": {
+            "prototalproROE": "10.2",
+            "prototalproOperatingProfitMargin": "2.6",
+            "prototalproNetProfitMargin": "9.2"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "1.6",
+            "grototalisNetIncomeYoY": "805.8",
+            "grototalisOperatingProfitLossYoY": "163.2",
+            "grototalisRevenueYoY": "10.9"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "113.2",
+            "saaverageStaCurrentRatio": "96.0"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "87.8",
+            "effPayablesTurnoverPeriod": "30.6",
+            "effReceivablesTurnoverPeriod": "28.3"
+        }
+    },
+    "쌍용C&E": {
+        "id": "00138224",
+        "profit": {
+            "prototalproROE": "12.7",
+            "prototalproOperatingProfitMargin": "10.5",
+            "prototalproNetProfitMargin": "9.6"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-5.8",
+            "grototalisNetIncomeYoY": "79.4",
+            "grototalisOperatingProfitLossYoY": "4.5",
+            "grototalisRevenueYoY": "6.0"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "166.1",
+            "saaverageStaCurrentRatio": "64.5"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "59.8",
+            "effPayablesTurnoverPeriod": "29.8",
+            "effReceivablesTurnoverPeriod": "68.7"
+        }
+    },
+    "SK아이이테크놀로지": {
+        "id": "01386916",
+        "profit": {
+            "prototalproROE": "0.9",
+            "prototalproOperatingProfitMargin": "-3.1",
+            "prototalproNetProfitMargin": "3.3"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "5.4",
+            "grototalisNetIncomeYoY": "185.7",
+            "grototalisOperatingProfitLossYoY": "-19.1",
+            "grototalisRevenueYoY": "5.9"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "68.5",
+            "saaverageStaCurrentRatio": "173.1"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "104.0",
+            "effPayablesTurnoverPeriod": "8.8",
+            "effReceivablesTurnoverPeriod": "65.6"
+        }
+    },
+    "대한전선": {
+        "id": "00113207",
+        "profit": {
+            "prototalproROE": "5.1",
+            "prototalproOperatingProfitMargin": "2.7",
+            "prototalproNetProfitMargin": "1.9"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "16.3",
+            "grototalisNetIncomeYoY": "107.5",
+            "grototalisOperatingProfitLossYoY": "43.7",
+            "grototalisRevenueYoY": "15.6"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "88.2",
+            "saaverageStaCurrentRatio": "200.7"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "66.5",
+            "effPayablesTurnoverPeriod": "40.7",
+            "effReceivablesTurnoverPeriod": "50.6"
+        }
+    },
+    "HD현대미포": {
+        "id": "00164609",
+        "profit": {
+            "prototalproROE": "-5.2",
+            "prototalproOperatingProfitMargin": "-3.2",
+            "prototalproNetProfitMargin": "-2.7"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-5.0",
+            "grototalisNetIncomeYoY": "-478.2",
+            "grototalisOperatingProfitLossYoY": "-13.0",
+            "grototalisRevenueYoY": "13.8"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "139.3",
+            "saaverageStaCurrentRatio": "103.5"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "24.1",
+            "effPayablesTurnoverPeriod": "55.1",
+            "effReceivablesTurnoverPeriod": "9.5"
+        }
+    },
+    "농심": {
+        "id": "00108241",
+        "profit": {
+            "prototalproROE": "6.6",
+            "prototalproOperatingProfitMargin": "5.8",
+            "prototalproNetProfitMargin": "4.8"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "5.4",
+            "grototalisNetIncomeYoY": "38.4",
+            "grototalisOperatingProfitLossYoY": "76.3",
+            "grototalisRevenueYoY": "12.0"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "33.4",
+            "saaverageStaCurrentRatio": "202.6"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "48.3",
+            "effPayablesTurnoverPeriod": "55.7",
+            "effReceivablesTurnoverPeriod": "31.3"
+        }
+    },
+    "아모레G": {
+        "id": "00154462",
+        "profit": {
+            "prototalproROE": "2.8",
+            "prototalproOperatingProfitMargin": "4.4",
+            "prototalproNetProfitMargin": "4.4"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "0.1",
+            "grototalisNetIncomeYoY": "83.2",
+            "grototalisOperatingProfitLossYoY": "-21.3",
+            "grototalisRevenueYoY": "-11.9"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "17.4",
+            "saaverageStaCurrentRatio": "306.9"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "129.3",
+            "effPayablesTurnoverPeriod": "44.8",
+            "effReceivablesTurnoverPeriod": "32.1"
+        }
+    },
+    "F&F": {
+        "id": "01568413",
+        "profit": {
+            "prototalproROE": "38.7",
+            "prototalproOperatingProfitMargin": "28.3",
+            "prototalproNetProfitMargin": "23.4"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "52.0",
+            "grototalisNetIncomeYoY": "9.1",
+            "grototalisOperatingProfitLossYoY": "3.8",
+            "grototalisRevenueYoY": "8.8"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "52.3",
+            "saaverageStaCurrentRatio": "153.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "198.9",
+            "effPayablesTurnoverPeriod": "54.4",
+            "effReceivablesTurnoverPeriod": "18.4"
+        }
+    },
+    "한전기술": {
+        "id": "00159209",
+        "profit": {
+            "prototalproROE": "6.2",
+            "prototalproOperatingProfitMargin": "5.9",
+            "prototalproNetProfitMargin": "6.2"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "3.2",
+            "grototalisNetIncomeYoY": "82.3",
+            "grototalisOperatingProfitLossYoY": "191.8",
+            "grototalisRevenueYoY": "10.4"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "60.7",
+            "saaverageStaCurrentRatio": "173.6"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "NaN",
+            "effPayablesTurnoverPeriod": "99.3",
+            "effReceivablesTurnoverPeriod": "40.1"
+        }
+    },
+    "한온시스템": {
+        "id": "00161125",
+        "profit": {
+            "prototalproROE": "3.7",
+            "prototalproOperatingProfitMargin": "3.6",
+            "prototalproNetProfitMargin": "1.1"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "4.4",
+            "grototalisNetIncomeYoY": "-16.3",
+            "grototalisOperatingProfitLossYoY": "27.3",
+            "grototalisRevenueYoY": "14.8"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "275.5",
+            "saaverageStaCurrentRatio": "106.0"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "47.5",
+            "effPayablesTurnoverPeriod": "82.8",
+            "effReceivablesTurnoverPeriod": "52.3"
+        }
+    },
+    "KCC": {
+        "id": "00105271",
+        "profit": {
+            "prototalproROE": "2.2",
+            "prototalproOperatingProfitMargin": "5.2",
+            "prototalproNetProfitMargin": "2.1"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "0.5",
+            "grototalisNetIncomeYoY": "741.3",
+            "grototalisOperatingProfitLossYoY": "-30.3",
+            "grototalisRevenueYoY": "-4.5"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "143.3",
+            "saaverageStaCurrentRatio": "117.0"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "106.4",
+            "effPayablesTurnoverPeriod": "69.0",
+            "effReceivablesTurnoverPeriod": "62.0"
+        }
+    },
+    "롯데지주": {
+        "id": "00120562",
+        "profit": {
+            "prototalproROE": "1.8",
+            "prototalproOperatingProfitMargin": "3.2",
+            "prototalproNetProfitMargin": "1.2"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "0.6",
+            "grototalisNetIncomeYoY": "23.9",
+            "grototalisOperatingProfitLossYoY": "19.5",
+            "grototalisRevenueYoY": "18.8"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "139.5",
+            "saaverageStaCurrentRatio": "86.5"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "46.3",
+            "effPayablesTurnoverPeriod": "57.7",
+            "effReceivablesTurnoverPeriod": "36.7"
+        }
+    },
+    "휠라홀딩스": {
+        "id": "00195229",
+        "profit": {
+            "prototalproROE": "11.3",
+            "prototalproOperatingProfitMargin": "8.4",
+            "prototalproNetProfitMargin": "7.2"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "2.9",
+            "grototalisNetIncomeYoY": "-11.4",
+            "grototalisOperatingProfitLossYoY": "-23.4",
+            "grototalisRevenueYoY": "0.9"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "99.5",
+            "saaverageStaCurrentRatio": "201.2"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "181.3",
+            "effPayablesTurnoverPeriod": "86.6",
+            "effReceivablesTurnoverPeriod": "61.2"
+        }
+    },
+    "팬오션": {
+        "id": "00122737",
+        "profit": {
+            "prototalproROE": "8.0",
+            "prototalproOperatingProfitMargin": "10.2",
+            "prototalproNetProfitMargin": "7.4"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "9.0",
+            "grototalisNetIncomeYoY": "-46.0",
+            "grototalisOperatingProfitLossYoY": "-32.7",
+            "grototalisRevenueYoY": "-16.6"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "67.2",
+            "saaverageStaCurrentRatio": "138.9"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "10.6",
+            "effPayablesTurnoverPeriod": "25.7",
+            "effReceivablesTurnoverPeriod": "18.8"
+        }
+    },
+    "HL만도": {
+        "id": "01042775",
+        "profit": {
+            "prototalproROE": "5.8",
+            "prototalproOperatingProfitMargin": "3.3",
+            "prototalproNetProfitMargin": "1.7"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "6.4",
+            "grototalisNetIncomeYoY": "8.2",
+            "grototalisOperatingProfitLossYoY": "21.1",
+            "grototalisRevenueYoY": "17.8"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "172.9",
+            "saaverageStaCurrentRatio": "131.9"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "37.2",
+            "effPayablesTurnoverPeriod": "62.5",
+            "effReceivablesTurnoverPeriod": "69.1"
+        }
+    },
+    "CJ대한통운": {
+        "id": "00113410",
+        "profit": {
+            "prototalproROE": "5.5",
+            "prototalproOperatingProfitMargin": "3.8",
+            "prototalproNetProfitMargin": "1.9"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "0.2",
+            "grototalisNetIncomeYoY": "14.4",
+            "grototalisOperatingProfitLossYoY": "13.5",
+            "grototalisRevenueYoY": "-0.6"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "137.3",
+            "saaverageStaCurrentRatio": "91.6"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "0.9",
+            "effPayablesTurnoverPeriod": "28.7",
+            "effReceivablesTurnoverPeriod": "44.1"
+        }
+    },
+    "롯데에너지머티리얼즈": {
+        "id": "00113997",
+        "profit": {
+            "prototalproROE": "-1.5",
+            "prototalproOperatingProfitMargin": "4.5",
+            "prototalproNetProfitMargin": "-4.0"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-1.7",
+            "grototalisNetIncomeYoY": "-126.1",
+            "grototalisOperatingProfitLossYoY": "-74.0",
+            "grototalisRevenueYoY": "8.6"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "24.4",
+            "saaverageStaCurrentRatio": "379.4"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "199.1",
+            "effPayablesTurnoverPeriod": "49.7",
+            "effReceivablesTurnoverPeriod": "92.4"
+        }
+    },
+    "호텔신라": {
+        "id": "00165680",
+        "profit": {
+            "prototalproROE": "5.2",
+            "prototalproOperatingProfitMargin": "2.4",
+            "prototalproNetProfitMargin": "0.8"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "7.3",
+            "grototalisNetIncomeYoY": "-2.5",
+            "grototalisOperatingProfitLossYoY": "-2.4",
+            "grototalisRevenueYoY": "-10.6"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "410.5",
+            "saaverageStaCurrentRatio": "125.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "NaN",
+            "effPayablesTurnoverPeriod": "NaN",
+            "effReceivablesTurnoverPeriod": "20.1"
+        }
+    },
+    "한미사이언스": {
+        "id": "00161426",
+        "profit": {
+            "prototalproROE": "12.9",
+            "prototalproOperatingProfitMargin": "8.9",
+            "prototalproNetProfitMargin": "8.4"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "7.9",
+            "grototalisNetIncomeYoY": "71.1",
+            "grototalisOperatingProfitLossYoY": "54.5",
+            "grototalisRevenueYoY": "15.8"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "55.5",
+            "saaverageStaCurrentRatio": "68.3"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "NaN",
+            "effPayablesTurnoverPeriod": "NaN",
+            "effReceivablesTurnoverPeriod": "31.8"
+        }
+    },
+    "에스원": {
+        "id": "00158501",
+        "profit": {
+            "prototalproROE": "11.0",
+            "prototalproOperatingProfitMargin": "8.1",
+            "prototalproNetProfitMargin": "6.6"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "5.7",
+            "grototalisNetIncomeYoY": "23.6",
+            "grototalisOperatingProfitLossYoY": "10.5",
+            "grototalisRevenueYoY": "6.1"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "39.2",
+            "saaverageStaCurrentRatio": "221.6"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "2.6",
+            "effPayablesTurnoverPeriod": "40.9",
+            "effReceivablesTurnoverPeriod": "24.7"
+        }
+    },
+    "GS리테일": {
+        "id": "00140177",
+        "profit": {
+            "prototalproROE": "1.3",
+            "prototalproOperatingProfitMargin": "3.0",
+            "prototalproNetProfitMargin": "0.5"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "1.1",
+            "grototalisNetIncomeYoY": "-39.3",
+            "grototalisOperatingProfitLossYoY": "63.8",
+            "grototalisRevenueYoY": "4.7"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "125.8",
+            "saaverageStaCurrentRatio": "68.2"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "11.3",
+            "effPayablesTurnoverPeriod": "51.4",
+            "effReceivablesTurnoverPeriod": "23.2"
+        }
+    },
+    "제일기획": {
+        "id": "00148276",
+        "profit": {
+            "prototalproROE": "15.5",
+            "prototalproOperatingProfitMargin": "7.2",
+            "prototalproNetProfitMargin": "4.6"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "5.9",
+            "grototalisNetIncomeYoY": "1.6",
+            "grototalisOperatingProfitLossYoY": "4.4",
+            "grototalisRevenueYoY": "6.4"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "123.8",
+            "saaverageStaCurrentRatio": "171.9"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "7.9",
+            "effPayablesTurnoverPeriod": "66.5",
+            "effReceivablesTurnoverPeriod": "110.5"
+        }
+    },
+    "금호타이어": {
+        "id": "00481454",
+        "profit": {
+            "prototalproROE": "4.4",
+            "prototalproOperatingProfitMargin": "6.3",
+            "prototalproNetProfitMargin": "1.7"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "5.3",
+            "grototalisNetIncomeYoY": "255.6",
+            "grototalisOperatingProfitLossYoY": "1441.6",
+            "grototalisRevenueYoY": "21.4"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "236.8",
+            "saaverageStaCurrentRatio": "106.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "89.6",
+            "effPayablesTurnoverPeriod": "44.6",
+            "effReceivablesTurnoverPeriod": "78.8"
+        }
+    },
+    "씨에스윈드": {
+        "id": "00670340",
+        "profit": {
+            "prototalproROE": "1.0",
+            "prototalproOperatingProfitMargin": "5.3",
+            "prototalproNetProfitMargin": "0.7"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "1.7",
+            "grototalisNetIncomeYoY": "137.9",
+            "grototalisOperatingProfitLossYoY": "38.1",
+            "grototalisRevenueYoY": "15.9"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "216.0",
+            "saaverageStaCurrentRatio": "102.3"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "117.5",
+            "effPayablesTurnoverPeriod": "110.2",
+            "effReceivablesTurnoverPeriod": "91.7"
+        }
+    },
+    "BGF리테일": {
+        "id": "01263022",
+        "profit": {
+            "prototalproROE": "19.4",
+            "prototalproOperatingProfitMargin": "3.1",
+            "prototalproNetProfitMargin": "2.4"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "14.5",
+            "grototalisNetIncomeYoY": "9.1",
+            "grototalisOperatingProfitLossYoY": "6.3",
+            "grototalisRevenueYoY": "9.2"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "207.1",
+            "saaverageStaCurrentRatio": "80.4"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "9.3",
+            "effPayablesTurnoverPeriod": "32.0",
+            "effReceivablesTurnoverPeriod": "8.1"
+        }
+    },
+    "한솔케미칼": {
+        "id": "00140955",
+        "profit": {
+            "prototalproROE": "13.8",
+            "prototalproOperatingProfitMargin": "16.9",
+            "prototalproNetProfitMargin": "15.6"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "10.8",
+            "grototalisNetIncomeYoY": "-21.1",
+            "grototalisOperatingProfitLossYoY": "-28.5",
+            "grototalisRevenueYoY": "-6.1"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "46.7",
+            "saaverageStaCurrentRatio": "146.7"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "77.1",
+            "effPayablesTurnoverPeriod": "64.0",
+            "effReceivablesTurnoverPeriod": "48.2"
+        }
+    },
+    "동서": {
+        "id": "00144395",
+        "profit": {
+            "prototalproROE": "10.9",
+            "prototalproOperatingProfitMargin": "8.3",
+            "prototalproNetProfitMargin": "33.9"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "7.1",
+            "grototalisNetIncomeYoY": "32.0",
+            "grototalisOperatingProfitLossYoY": "6.0",
+            "grototalisRevenueYoY": "-8.1"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "4.7",
+            "saaverageStaCurrentRatio": "1360.3"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "49.5",
+            "effPayablesTurnoverPeriod": "37.9",
+            "effReceivablesTurnoverPeriod": "46.6"
+        }
+    },
+    "OCI홀딩스": {
+        "id": "00148896",
+        "profit": {
+            "prototalproROE": "25.5",
+            "prototalproOperatingProfitMargin": "21.5",
+            "prototalproNetProfitMargin": "27.2"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "8.6",
+            "grototalisNetIncomeYoY": "14.8",
+            "grototalisOperatingProfitLossYoY": "-8.5",
+            "grototalisRevenueYoY": "-17.0"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "61.8",
+            "saaverageStaCurrentRatio": "377.1"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "274.2",
+            "effPayablesTurnoverPeriod": "90.0",
+            "effReceivablesTurnoverPeriod": "65.3"
+        }
+    },
+    "코스맥스": {
+        "id": "01009789",
+        "profit": {
+            "prototalproROE": "3.6",
+            "prototalproOperatingProfitMargin": "5.6",
+            "prototalproNetProfitMargin": "0.7"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-12.5",
+            "grototalisNetIncomeYoY": "49.5",
+            "grototalisOperatingProfitLossYoY": "50.9",
+            "grototalisRevenueYoY": "7.7"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "324.1",
+            "saaverageStaCurrentRatio": "89.5"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "51.9",
+            "effPayablesTurnoverPeriod": "57.1",
+            "effReceivablesTurnoverPeriod": "69.1"
+        }
+    },
+    "한화": {
+        "id": "00160588",
+        "profit": {
+            "prototalproROE": "5.4",
+            "prototalproOperatingProfitMargin": "4.3",
+            "prototalproNetProfitMargin": "3.1"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "77.9",
+            "grototalisNetIncomeYoY": "-5.4",
+            "grototalisOperatingProfitLossYoY": "-9.9",
+            "grototalisRevenueYoY": "-2.3"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "552.0",
+            "saaverageStaCurrentRatio": "88.7"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "57.0",
+            "effPayablesTurnoverPeriod": "31.4",
+            "effReceivablesTurnoverPeriod": "36.9"
+        }
+    },
+    "롯데쇼핑": {
+        "id": "00120526",
+        "profit": {
+            "prototalproROE": "-0.6",
+            "prototalproOperatingProfitMargin": "3.0",
+            "prototalproNetProfitMargin": "-0.4"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-3.0",
+            "grototalisNetIncomeYoY": "14.9",
+            "grototalisOperatingProfitLossYoY": "39.0",
+            "grototalisRevenueYoY": "-4.0"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "185.9",
+            "saaverageStaCurrentRatio": "50.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "62.6",
+            "effPayablesTurnoverPeriod": "110.2",
+            "effReceivablesTurnoverPeriod": "22.1"
+        }
+    },
+    "DB하이텍": {
+        "id": "00160843",
+        "profit": {
+            "prototalproROE": "19.4",
+            "prototalproOperatingProfitMargin": "30.6",
+            "prototalproNetProfitMargin": "24.6"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "14.2",
+            "grototalisNetIncomeYoY": "-34.5",
+            "grototalisOperatingProfitLossYoY": "-33.9",
+            "grototalisRevenueYoY": "-14.5"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "18.4",
+            "saaverageStaCurrentRatio": "438.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "38.2",
+            "effPayablesTurnoverPeriod": "52.0",
+            "effReceivablesTurnoverPeriod": "36.1"
+        }
+    },
+    "이마트": {
+        "id": "00872984",
+        "profit": {
+            "prototalproROE": "0.1",
+            "prototalproOperatingProfitMargin": "0.1",
+            "prototalproNetProfitMargin": "0.1"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "3.2",
+            "grototalisNetIncomeYoY": "-114.5",
+            "grototalisOperatingProfitLossYoY": "-86.9",
+            "grototalisRevenueYoY": "5.0"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "142.1",
+            "saaverageStaCurrentRatio": "64.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "34.1",
+            "effPayablesTurnoverPeriod": "50.8",
+            "effReceivablesTurnoverPeriod": "20.3"
+        }
+    },
+    "풍산": {
+        "id": "00684714",
+        "profit": {
+            "prototalproROE": "8.9",
+            "prototalproOperatingProfitMargin": "5.3",
+            "prototalproNetProfitMargin": "4.0"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "7.9",
+            "grototalisNetIncomeYoY": "-20.6",
+            "grototalisOperatingProfitLossYoY": "-18.1",
+            "grototalisRevenueYoY": "0.7"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "88.1",
+            "saaverageStaCurrentRatio": "164.1"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "122.6",
+            "effPayablesTurnoverPeriod": "15.3",
+            "effReceivablesTurnoverPeriod": "41.3"
+        }
+    },
+    "에스엘": {
+        "id": "00125521",
+        "profit": {
+            "prototalproROE": "15.3",
+            "prototalproOperatingProfitMargin": "7.2",
+            "prototalproNetProfitMargin": "6.2"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "15.7",
+            "grototalisNetIncomeYoY": "122.4",
+            "grototalisOperatingProfitLossYoY": "115.9",
+            "grototalisRevenueYoY": "28.0"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "62.0",
+            "saaverageStaCurrentRatio": "185.1"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "34.5",
+            "effPayablesTurnoverPeriod": "54.7",
+            "effReceivablesTurnoverPeriod": "70.5"
+        }
+    },
+    "한올바이오파마": {
+        "id": "00162586",
+        "profit": {
+            "prototalproROE": "2.1",
+            "prototalproOperatingProfitMargin": "3.3",
+            "prototalproNetProfitMargin": "2.9"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "14.2",
+            "grototalisNetIncomeYoY": "809.3",
+            "grototalisOperatingProfitLossYoY": "294.8",
+            "grototalisRevenueYoY": "23.7"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "26.5",
+            "saaverageStaCurrentRatio": "325.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "185.5",
+            "effPayablesTurnoverPeriod": "110.6",
+            "effReceivablesTurnoverPeriod": "67.1"
+        }
+    },
+    "오뚜기": {
+        "id": "00141529",
+        "profit": {
+            "prototalproROE": "11.6",
+            "prototalproOperatingProfitMargin": "6.8",
+            "prototalproNetProfitMargin": "6.9"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "16.9",
+            "grototalisNetIncomeYoY": "38.9",
+            "grototalisOperatingProfitLossYoY": "26.9",
+            "grototalisRevenueYoY": "11.9"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "69.8",
+            "saaverageStaCurrentRatio": "157.4"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "69.2",
+            "effPayablesTurnoverPeriod": "46.6",
+            "effReceivablesTurnoverPeriod": "32.9"
+        }
+    },
+    "세방전지": {
+        "id": "00133858",
+        "profit": {
+            "prototalproROE": "6.7",
+            "prototalproOperatingProfitMargin": "6.8",
+            "prototalproNetProfitMargin": "5.4"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "5.7",
+            "grototalisNetIncomeYoY": "88.6",
+            "grototalisOperatingProfitLossYoY": "40.2",
+            "grototalisRevenueYoY": "11.5"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "40.5",
+            "saaverageStaCurrentRatio": "209.1"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "62.4",
+            "effPayablesTurnoverPeriod": "64.9",
+            "effReceivablesTurnoverPeriod": "76.6"
+        }
+    },
+    "현대위아": {
+        "id": "00106623",
+        "profit": {
+            "prototalproROE": "-0.6",
+            "prototalproOperatingProfitMargin": "2.7",
+            "prototalproNetProfitMargin": "-0.2"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-1.8",
+            "grototalisNetIncomeYoY": "-51.0",
+            "grototalisOperatingProfitLossYoY": "40.4",
+            "grototalisRevenueYoY": "8.8"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "81.8",
+            "saaverageStaCurrentRatio": "173.5"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "35.1",
+            "effPayablesTurnoverPeriod": "50.3",
+            "effReceivablesTurnoverPeriod": "65.5"
+        }
+    },
+    "현대엘리베이": {
+        "id": "00164724",
+        "profit": {
+            "prototalproROE": "19.7",
+            "prototalproOperatingProfitMargin": "3.6",
+            "prototalproNetProfitMargin": "11.1"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "14.9",
+            "grototalisNetIncomeYoY": "128.6",
+            "grototalisOperatingProfitLossYoY": "66.5",
+            "grototalisRevenueYoY": "19.2"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "176.9",
+            "saaverageStaCurrentRatio": "97.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "13.3",
+            "effPayablesTurnoverPeriod": "49.4",
+            "effReceivablesTurnoverPeriod": "48.1"
+        }
+    },
+    "신세계": {
+        "id": "00136378",
+        "profit": {
+            "prototalproROE": "6.8",
+            "prototalproOperatingProfitMargin": "9.0",
+            "prototalproNetProfitMargin": "6.2"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "3.9",
+            "grototalisNetIncomeYoY": "-16.6",
+            "grototalisOperatingProfitLossYoY": "-6.0",
+            "grototalisRevenueYoY": "-16.3"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "132.6",
+            "saaverageStaCurrentRatio": "55.0"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "130.2",
+            "effPayablesTurnoverPeriod": "193.1",
+            "effReceivablesTurnoverPeriod": "33.7"
+        }
+    },
+    "TCC스틸": {
+        "id": "00117300",
+        "profit": {
+            "prototalproROE": "0.4",
+            "prototalproOperatingProfitMargin": "3.0",
+            "prototalproNetProfitMargin": "0.1"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "21.5",
+            "grototalisNetIncomeYoY": "-73.0",
+            "grototalisOperatingProfitLossYoY": "-48.6",
+            "grototalisRevenueYoY": "2.0"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "134.6",
+            "saaverageStaCurrentRatio": "102.0"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "72.4",
+            "effPayablesTurnoverPeriod": "35.1",
+            "effReceivablesTurnoverPeriod": "47.7"
+        }
+    },
+    "한국앤컴퍼니": {
+        "id": "00160047",
+        "profit": {
+            "prototalproROE": "4.9",
+            "prototalproOperatingProfitMargin": "22.4",
+            "prototalproNetProfitMargin": "18.2"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "3.3",
+            "grototalisNetIncomeYoY": "-50.3",
+            "grototalisOperatingProfitLossYoY": "2.9",
+            "grototalisRevenueYoY": "0.5"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "16.2",
+            "saaverageStaCurrentRatio": "151.2"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "87.9",
+            "effPayablesTurnoverPeriod": "49.6",
+            "effReceivablesTurnoverPeriod": "82.8"
+        }
+    },
+    "효성첨단소재": {
+        "id": "01316254",
+        "profit": {
+            "prototalproROE": "9.4",
+            "prototalproOperatingProfitMargin": "6.2",
+            "prototalproNetProfitMargin": "2.1"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-1.0",
+            "grototalisNetIncomeYoY": "-70.5",
+            "grototalisOperatingProfitLossYoY": "-42.9",
+            "grototalisRevenueYoY": "-12.9"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "311.7",
+            "saaverageStaCurrentRatio": "68.6"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "68.2",
+            "effPayablesTurnoverPeriod": "61.4",
+            "effReceivablesTurnoverPeriod": "67.3"
+        }
+    },
+    "효성티앤씨": {
+        "id": "01316227",
+        "profit": {
+            "prototalproROE": "1.9",
+            "prototalproOperatingProfitMargin": "1.5",
+            "prototalproNetProfitMargin": "0.4"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-2.2",
+            "grototalisNetIncomeYoY": "92.6",
+            "grototalisOperatingProfitLossYoY": "1515.7",
+            "grototalisRevenueYoY": "-15.2"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "162.4",
+            "saaverageStaCurrentRatio": "98.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "38.8",
+            "effPayablesTurnoverPeriod": "48.5",
+            "effReceivablesTurnoverPeriod": "48.7"
+        }
+    },
+    "롯데웰푸드": {
+        "id": "01258507",
+        "profit": {
+            "prototalproROE": "2.8",
+            "prototalproOperatingProfitMargin": "4.0",
+            "prototalproNetProfitMargin": "1.5"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "23.8",
+            "grototalisNetIncomeYoY": "79.7",
+            "grototalisOperatingProfitLossYoY": "52.2",
+            "grototalisRevenueYoY": "49.4"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "98.0",
+            "saaverageStaCurrentRatio": "150.1"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "68.2",
+            "effPayablesTurnoverPeriod": "38.7",
+            "effReceivablesTurnoverPeriod": "33.3"
+        }
+    },
+    "한국콜마": {
+        "id": "00939331",
+        "profit": {
+            "prototalproROE": "1.0",
+            "prototalproOperatingProfitMargin": "5.4",
+            "prototalproNetProfitMargin": "0.7"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "2.7",
+            "grototalisNetIncomeYoY": "160.2",
+            "grototalisOperatingProfitLossYoY": "46.1",
+            "grototalisRevenueYoY": "17.8"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "113.5",
+            "saaverageStaCurrentRatio": "70.5"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "66.6",
+            "effPayablesTurnoverPeriod": "61.4",
+            "effReceivablesTurnoverPeriod": "58.0"
+        }
+    },
+    "영원무역": {
+        "id": "00776820",
+        "profit": {
+            "prototalproROE": "18.3",
+            "prototalproOperatingProfitMargin": "18.9",
+            "prototalproNetProfitMargin": "16.6"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "19.1",
+            "grototalisNetIncomeYoY": "18.0",
+            "grototalisOperatingProfitLossYoY": "8.5",
+            "grototalisRevenueYoY": "8.8"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "47.5",
+            "saaverageStaCurrentRatio": "299.0"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "181.7",
+            "effPayablesTurnoverPeriod": "67.8",
+            "effReceivablesTurnoverPeriod": "59.6"
+        }
+    },
+    "한전KPS": {
+        "id": "00159218",
+        "profit": {
+            "prototalproROE": "11.9",
+            "prototalproOperatingProfitMargin": "12.3",
+            "prototalproNetProfitMargin": "9.8"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "6.4",
+            "grototalisNetIncomeYoY": "78.0",
+            "grototalisOperatingProfitLossYoY": "80.6",
+            "grototalisRevenueYoY": "6.7"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "32.4",
+            "saaverageStaCurrentRatio": "264.3"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "8.0",
+            "effPayablesTurnoverPeriod": "40.9",
+            "effReceivablesTurnoverPeriod": "171.8"
+        }
+    },
+    "대우건설": {
+        "id": "00124540",
+        "profit": {
+            "prototalproROE": "12.8",
+            "prototalproOperatingProfitMargin": "6.3",
+            "prototalproNetProfitMargin": "4.5"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "10.6",
+            "grototalisNetIncomeYoY": "10.0",
+            "grototalisOperatingProfitLossYoY": "4.1",
+            "grototalisRevenueYoY": "17.9"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "186.2",
+            "saaverageStaCurrentRatio": "164.4"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "62.7",
+            "effPayablesTurnoverPeriod": "12.8",
+            "effReceivablesTurnoverPeriod": "54.5"
+        }
+    },
+    "두산퓨얼셀": {
+        "id": "01412725",
+        "profit": {
+            "prototalproROE": "0.1",
+            "prototalproOperatingProfitMargin": "4.1",
+            "prototalproNetProfitMargin": "0.0"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "0.2",
+            "grototalisNetIncomeYoY": "-102.8",
+            "grototalisOperatingProfitLossYoY": "285.6",
+            "grototalisRevenueYoY": "-14.2"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "116.0",
+            "saaverageStaCurrentRatio": "234.2"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "774.1",
+            "effPayablesTurnoverPeriod": "194.8",
+            "effReceivablesTurnoverPeriod": "70.9"
+        }
+    },
+    "HD현대인프라코어": {
+        "id": "00344287",
+        "profit": {
+            "prototalproROE": "16.6",
+            "prototalproOperatingProfitMargin": "8.8",
+            "prototalproNetProfitMargin": "6.1"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "13.9",
+            "grototalisNetIncomeYoY": "-19.7",
+            "grototalisOperatingProfitLossYoY": "119.1",
+            "grototalisRevenueYoY": "12.7"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "145.6",
+            "saaverageStaCurrentRatio": "155.9"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "140.2",
+            "effPayablesTurnoverPeriod": "94.0",
+            "effReceivablesTurnoverPeriod": "99.8"
+        }
+    },
+    "하이트진로": {
+        "id": "00150244",
+        "profit": {
+            "prototalproROE": "3.5",
+            "prototalproOperatingProfitMargin": "5.2",
+            "prototalproNetProfitMargin": "1.5"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-1.0",
+            "grototalisNetIncomeYoY": "-53.8",
+            "grototalisOperatingProfitLossYoY": "-30.0",
+            "grototalisRevenueYoY": "4.8"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "203.2",
+            "saaverageStaCurrentRatio": "65.2"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "65.9",
+            "effPayablesTurnoverPeriod": "81.6",
+            "effReceivablesTurnoverPeriod": "53.9"
+        }
+    },
+    "삼아알미늄": {
+        "id": "00126779",
+        "profit": {
+            "prototalproROE": "3.0",
+            "prototalproOperatingProfitMargin": "3.5",
+            "prototalproNetProfitMargin": "2.7"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "76.3",
+            "grototalisNetIncomeYoY": "-46.6",
+            "grototalisOperatingProfitLossYoY": "-44.1",
+            "grototalisRevenueYoY": "-4.4"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "63.4",
+            "saaverageStaCurrentRatio": "202.4"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "115.2",
+            "effPayablesTurnoverPeriod": "35.1",
+            "effReceivablesTurnoverPeriod": "54.9"
+        }
+    },
+    "녹십자": {
+        "id": "00129679",
+        "profit": {
+            "prototalproROE": "-0.0",
+            "prototalproOperatingProfitMargin": "1.8",
+            "prototalproNetProfitMargin": "0.0"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-0.7",
+            "grototalisNetIncomeYoY": "-118.3",
+            "grototalisOperatingProfitLossYoY": "-50.2",
+            "grototalisRevenueYoY": "-2.9"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "75.7",
+            "saaverageStaCurrentRatio": "128.6"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "168.5",
+            "effPayablesTurnoverPeriod": "78.0",
+            "effReceivablesTurnoverPeriod": "101.4"
+        }
+    },
+    "GS건설": {
+        "id": "00120030",
+        "profit": {
+            "prototalproROE": "-2.5",
+            "prototalproOperatingProfitMargin": "-0.6",
+            "prototalproNetProfitMargin": "-0.9"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-3.8",
+            "grototalisNetIncomeYoY": "-123.7",
+            "grototalisOperatingProfitLossYoY": "-116.1",
+            "grototalisRevenueYoY": "22.5"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "261.1",
+            "saaverageStaCurrentRatio": "108.2"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "40.4",
+            "effPayablesTurnoverPeriod": "55.1",
+            "effReceivablesTurnoverPeriod": "92.1"
+        }
+    },
+    "한샘": {
+        "id": "00161693",
+        "profit": {
+            "prototalproROE": "-17.5",
+            "prototalproOperatingProfitMargin": "-1.0",
+            "prototalproNetProfitMargin": "-3.9"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-17.9",
+            "grototalisNetIncomeYoY": "-488.6",
+            "grototalisOperatingProfitLossYoY": "-94.5",
+            "grototalisRevenueYoY": "-5.1"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "188.4",
+            "saaverageStaCurrentRatio": "74.9"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "25.8",
+            "effPayablesTurnoverPeriod": "59.8",
+            "effReceivablesTurnoverPeriod": "24.2"
+        }
+    },
+    "동원시스템즈": {
+        "id": "00132637",
+        "profit": {
+            "prototalproROE": "9.0",
+            "prototalproOperatingProfitMargin": "6.3",
+            "prototalproNetProfitMargin": "5.1"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "6.7",
+            "grototalisNetIncomeYoY": "10.5",
+            "grototalisOperatingProfitLossYoY": "-11.5",
+            "grototalisRevenueYoY": "-7.9"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "100.6",
+            "saaverageStaCurrentRatio": "100.9"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "60.4",
+            "effPayablesTurnoverPeriod": "73.0",
+            "effReceivablesTurnoverPeriod": "68.3"
+        }
+    },
+    "대웅제약": {
+        "id": "00427483",
+        "profit": {
+            "prototalproROE": "8.4",
+            "prototalproOperatingProfitMargin": "8.3",
+            "prototalproNetProfitMargin": "5.5"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "15.3",
+            "grototalisNetIncomeYoY": "57.1",
+            "grototalisOperatingProfitLossYoY": "14.6",
+            "grototalisRevenueYoY": "8.2"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "94.1",
+            "saaverageStaCurrentRatio": "84.0"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "128.4",
+            "effPayablesTurnoverPeriod": "119.4",
+            "effReceivablesTurnoverPeriod": "47.4"
+        }
+    },
+    "종근당": {
+        "id": "00992871",
+        "profit": {
+            "prototalproROE": "20.5",
+            "prototalproOperatingProfitMargin": "11.1",
+            "prototalproNetProfitMargin": "9.6"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "22.1",
+            "grototalisNetIncomeYoY": "131.0",
+            "grototalisOperatingProfitLossYoY": "71.1",
+            "grototalisRevenueYoY": "9.9"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "71.6",
+            "saaverageStaCurrentRatio": "187.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "102.0",
+            "effPayablesTurnoverPeriod": "63.5",
+            "effReceivablesTurnoverPeriod": "56.1"
+        }
+    },
+    "DL이앤씨": {
+        "id": "01524093",
+        "profit": {
+            "prototalproROE": "5.7",
+            "prototalproOperatingProfitMargin": "4.7",
+            "prototalproNetProfitMargin": "3.4"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "1.7",
+            "grototalisNetIncomeYoY": "-47.6",
+            "grototalisOperatingProfitLossYoY": "-41.9",
+            "grototalisRevenueYoY": "5.5"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "99.1",
+            "saaverageStaCurrentRatio": "151.9"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "45.2",
+            "effPayablesTurnoverPeriod": "68.6",
+            "effReceivablesTurnoverPeriod": "60.4"
+        }
+    },
+    "KG모빌리티": {
+        "id": "00138242",
+        "profit": {
+            "prototalproROE": "1.5",
+            "prototalproOperatingProfitMargin": "-0.1",
+            "prototalproNetProfitMargin": "0.5"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "461.0",
+            "grototalisNetIncomeYoY": "191.0",
+            "grototalisOperatingProfitLossYoY": "103.1",
+            "grototalisRevenueYoY": "26.7"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "141.4",
+            "saaverageStaCurrentRatio": "124.9"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "49.8",
+            "effPayablesTurnoverPeriod": "32.7",
+            "effReceivablesTurnoverPeriod": "20.8"
+        }
+    },
+    "SK네트웍스": {
+        "id": "00131780",
+        "profit": {
+            "prototalproROE": "1.6",
+            "prototalproOperatingProfitMargin": "2.2",
+            "prototalproNetProfitMargin": "0.4"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-9.6",
+            "grototalisNetIncomeYoY": "-51.1",
+            "grototalisOperatingProfitLossYoY": "44.1",
+            "grototalisRevenueYoY": "-5.3"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "341.9",
+            "saaverageStaCurrentRatio": "65.0"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "26.2",
+            "effPayablesTurnoverPeriod": "50.5",
+            "effReceivablesTurnoverPeriod": "22.8"
+        }
+    },
+    "DL": {
+        "id": "00109693",
+        "profit": {
+            "prototalproROE": "-1.9",
+            "prototalproOperatingProfitMargin": "4.0",
+            "prototalproNetProfitMargin": "-1.7"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-3.3",
+            "grototalisNetIncomeYoY": "-182.9",
+            "grototalisOperatingProfitLossYoY": "-8.0",
+            "grototalisRevenueYoY": "30.0"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "170.6",
+            "saaverageStaCurrentRatio": "95.3"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "94.8",
+            "effPayablesTurnoverPeriod": "76.4",
+            "effReceivablesTurnoverPeriod": "48.5"
+        }
+    },
+    "영원무역홀딩스": {
+        "id": "00140964",
+        "profit": {
+            "prototalproROE": "18.3",
+            "prototalproOperatingProfitMargin": "20.7",
+            "prototalproNetProfitMargin": "17.9"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "18.6",
+            "grototalisNetIncomeYoY": "17.1",
+            "grototalisOperatingProfitLossYoY": "11.8",
+            "grototalisRevenueYoY": "11.0"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "39.0",
+            "saaverageStaCurrentRatio": "347.9"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "202.5",
+            "effPayablesTurnoverPeriod": "71.4",
+            "effReceivablesTurnoverPeriod": "52.3"
+        }
+    },
+    "LX인터내셔널": {
+        "id": "00120076",
+        "profit": {
+            "prototalproROE": "12.4",
+            "prototalproOperatingProfitMargin": "3.7",
+            "prototalproNetProfitMargin": "2.4"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "8.4",
+            "grototalisNetIncomeYoY": "-47.4",
+            "grototalisOperatingProfitLossYoY": "-34.7",
+            "grototalisRevenueYoY": "-15.9"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "163.3",
+            "saaverageStaCurrentRatio": "147.5"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "23.7",
+            "effPayablesTurnoverPeriod": "34.9",
+            "effReceivablesTurnoverPeriod": "32.7"
+        }
+    },
+    "코스모화학": {
+        "id": "00160302",
+        "profit": {
+            "prototalproROE": "0.6",
+            "prototalproOperatingProfitMargin": "1.7",
+            "prototalproNetProfitMargin": "0.1"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "30.1",
+            "grototalisNetIncomeYoY": "-99.2",
+            "grototalisOperatingProfitLossYoY": "-65.1",
+            "grototalisRevenueYoY": "26.0"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "70.3",
+            "saaverageStaCurrentRatio": "106.7"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "88.9",
+            "effPayablesTurnoverPeriod": "71.4",
+            "effReceivablesTurnoverPeriod": "50.5"
+        }
+    },
+    "현대백화점": {
+        "id": "00428251",
+        "profit": {
+            "prototalproROE": "1.2",
+            "prototalproOperatingProfitMargin": "6.5",
+            "prototalproNetProfitMargin": "1.6"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "8.5",
+            "grototalisNetIncomeYoY": "-71.6",
+            "grototalisOperatingProfitLossYoY": "-5.1",
+            "grototalisRevenueYoY": "4.7"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "86.1",
+            "saaverageStaCurrentRatio": "93.0"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "135.5",
+            "effPayablesTurnoverPeriod": "170.7",
+            "effReceivablesTurnoverPeriod": "83.3"
+        }
+    },
+    "롯데정밀화학": {
+        "id": "00157681",
+        "profit": {
+            "prototalproROE": "9.0",
+            "prototalproOperatingProfitMargin": "10.8",
+            "prototalproNetProfitMargin": "10.8"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "6.1",
+            "grototalisNetIncomeYoY": "-32.7",
+            "grototalisOperatingProfitLossYoY": "-41.4",
+            "grototalisRevenueYoY": "-16.6"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "15.1",
+            "saaverageStaCurrentRatio": "427.3"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "63.5",
+            "effPayablesTurnoverPeriod": "22.6",
+            "effReceivablesTurnoverPeriod": "49.7"
+        }
+    },
+    "효성": {
+        "id": "00117188",
+        "profit": {
+            "prototalproROE": "-0.8",
+            "prototalproOperatingProfitMargin": "1.2",
+            "prototalproNetProfitMargin": "-0.6"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-4.0",
+            "grototalisNetIncomeYoY": "-59.9",
+            "grototalisOperatingProfitLossYoY": "95.9",
+            "grototalisRevenueYoY": "-5.3"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "87.8",
+            "saaverageStaCurrentRatio": "101.5"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "96.7",
+            "effPayablesTurnoverPeriod": "65.0",
+            "effReceivablesTurnoverPeriod": "69.4"
+        }
+    },
+    "롯데칠성": {
+        "id": "00120571",
+        "profit": {
+            "prototalproROE": "9.3",
+            "prototalproOperatingProfitMargin": "6.9",
+            "prototalproNetProfitMargin": "4.5"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "7.3",
+            "grototalisNetIncomeYoY": "1.9",
+            "grototalisOperatingProfitLossYoY": "-3.0",
+            "grototalisRevenueYoY": "12.3"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "177.1",
+            "saaverageStaCurrentRatio": "87.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "86.7",
+            "effPayablesTurnoverPeriod": "98.3",
+            "effReceivablesTurnoverPeriod": "38.1"
+        }
+    },
+    "덴티움": {
+        "id": "00526599",
+        "profit": {
+            "prototalproROE": "19.5",
+            "prototalproOperatingProfitMargin": "34.5",
+            "prototalproNetProfitMargin": "22.6"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "21.5",
+            "grototalisNetIncomeYoY": "4.6",
+            "grototalisOperatingProfitLossYoY": "21.3",
+            "grototalisRevenueYoY": "9.6"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "66.5",
+            "saaverageStaCurrentRatio": "143.2"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "446.4",
+            "effPayablesTurnoverPeriod": "41.7",
+            "effReceivablesTurnoverPeriod": "119.7"
+        }
+    },
+    "에스디바이오센서": {
+        "id": "00854997",
+        "profit": {
+            "prototalproROE": "-9.8",
+            "prototalproOperatingProfitMargin": "-16.6",
+            "prototalproNetProfitMargin": "-43.6"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-2.4",
+            "grototalisNetIncomeYoY": "-160.5",
+            "grototalisOperatingProfitLossYoY": "-119.5",
+            "grototalisRevenueYoY": "-70.8"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "31.6",
+            "saaverageStaCurrentRatio": "381.1"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "134.6",
+            "effPayablesTurnoverPeriod": "21.0",
+            "effReceivablesTurnoverPeriod": "60.9"
+        }
+    },
+    "코오롱인더": {
+        "id": "00795135",
+        "profit": {
+            "prototalproROE": "3.0",
+            "prototalproOperatingProfitMargin": "3.3",
+            "prototalproNetProfitMargin": "1.6"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "6.7",
+            "grototalisNetIncomeYoY": "-56.1",
+            "grototalisOperatingProfitLossYoY": "-23.9",
+            "grototalisRevenueYoY": "0.6"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "106.3",
+            "saaverageStaCurrentRatio": "96.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "116.9",
+            "effPayablesTurnoverPeriod": "65.6",
+            "effReceivablesTurnoverPeriod": "58.5"
+        }
+    },
+    "대한유화": {
+        "id": "00260383",
+        "profit": {
+            "prototalproROE": "-5.4",
+            "prototalproOperatingProfitMargin": "-7.1",
+            "prototalproNetProfitMargin": "-4.7"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-5.3",
+            "grototalisNetIncomeYoY": "-603.2",
+            "grototalisOperatingProfitLossYoY": "-202.0",
+            "grototalisRevenueYoY": "-4.4"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "21.1",
+            "saaverageStaCurrentRatio": "168.9"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "33.4",
+            "effPayablesTurnoverPeriod": "24.0",
+            "effReceivablesTurnoverPeriod": "34.9"
+        }
+    },
+    "한일시멘트": {
+        "id": "01319808",
+        "profit": {
+            "prototalproROE": "9.5",
+            "prototalproOperatingProfitMargin": "12.1",
+            "prototalproNetProfitMargin": "9.1"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "8.6",
+            "grototalisNetIncomeYoY": "82.8",
+            "grototalisOperatingProfitLossYoY": "84.3",
+            "grototalisRevenueYoY": "20.6"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "70.3",
+            "saaverageStaCurrentRatio": "153.4"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "36.7",
+            "effPayablesTurnoverPeriod": "37.8",
+            "effReceivablesTurnoverPeriod": "88.7"
+        }
+    },
+    "SK케미칼": {
+        "id": "01267170",
+        "profit": {
+            "prototalproROE": "4.0",
+            "prototalproOperatingProfitMargin": "6.3",
+            "prototalproNetProfitMargin": "6.1"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "2.1",
+            "grototalisNetIncomeYoY": "-59.1",
+            "grototalisOperatingProfitLossYoY": "-70.6",
+            "grototalisRevenueYoY": "-12.2"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "59.8",
+            "saaverageStaCurrentRatio": "248.3"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "133.1",
+            "effPayablesTurnoverPeriod": "64.4",
+            "effReceivablesTurnoverPeriod": "49.3"
+        }
+    },
+    "대웅": {
+        "id": "00111810",
+        "profit": {
+            "prototalproROE": "11.3",
+            "prototalproOperatingProfitMargin": "11.6",
+            "prototalproNetProfitMargin": "8.8"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "11.4",
+            "grototalisNetIncomeYoY": "14.7",
+            "grototalisOperatingProfitLossYoY": "2.9",
+            "grototalisRevenueYoY": "8.8"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "64.6",
+            "saaverageStaCurrentRatio": "121.7"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "NaN",
+            "effPayablesTurnoverPeriod": "NaN",
+            "effReceivablesTurnoverPeriod": "44.5"
+        }
+    },
+    "일진하이솔루스": {
+        "id": "00972503",
+        "profit": {
+            "prototalproROE": "1.1",
+            "prototalproOperatingProfitMargin": "-8.2",
+            "prototalproNetProfitMargin": "3.3"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "1.2",
+            "grototalisNetIncomeYoY": "-84.8",
+            "grototalisOperatingProfitLossYoY": "-386.4",
+            "grototalisRevenueYoY": "-31.7"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "6.8",
+            "saaverageStaCurrentRatio": "1713.1"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "86.4",
+            "effPayablesTurnoverPeriod": "35.4",
+            "effReceivablesTurnoverPeriod": "24.2"
+        }
+    },
+    "오리온홀딩스": {
+        "id": "00117577",
+        "profit": {
+            "prototalproROE": "7.5",
+            "prototalproOperatingProfitMargin": "13.6",
+            "prototalproNetProfitMargin": "10.7"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "3.7",
+            "grototalisNetIncomeYoY": "17.7",
+            "grototalisOperatingProfitLossYoY": "14.9",
+            "grototalisRevenueYoY": "10.8"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "19.1",
+            "saaverageStaCurrentRatio": "276.2"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "47.0",
+            "effPayablesTurnoverPeriod": "21.6",
+            "effReceivablesTurnoverPeriod": "23.4"
+        }
+    },
+    "율촌화학": {
+        "id": "00145260",
+        "profit": {
+            "prototalproROE": "-2.3",
+            "prototalproOperatingProfitMargin": "-2.5",
+            "prototalproNetProfitMargin": "-1.6"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-3.6",
+            "grototalisNetIncomeYoY": "-504.4",
+            "grototalisOperatingProfitLossYoY": "-362.3",
+            "grototalisRevenueYoY": "-13.6"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "118.2",
+            "saaverageStaCurrentRatio": "93.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "66.7",
+            "effPayablesTurnoverPeriod": "43.4",
+            "effReceivablesTurnoverPeriod": "94.4"
+        }
+    },
+    "더블유게임즈": {
+        "id": "01010110",
+        "profit": {
+            "prototalproROE": "-0.7",
+            "prototalproOperatingProfitMargin": "34.4",
+            "prototalproNetProfitMargin": "0.6"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "0.6",
+            "grototalisNetIncomeYoY": "-102.0",
+            "grototalisOperatingProfitLossYoY": "13.5",
+            "grototalisRevenueYoY": "-2.1"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "8.1",
+            "saaverageStaCurrentRatio": "876.3"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "NaN",
+            "effPayablesTurnoverPeriod": "NaN",
+            "effReceivablesTurnoverPeriod": "33.5"
+        }
+    },
+    "하나투어": {
+        "id": "00269940",
+        "profit": {
+            "prototalproROE": "27.2",
+            "prototalproOperatingProfitMargin": "-5.2",
+            "prototalproNetProfitMargin": "7.7"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "80.4",
+            "grototalisNetIncomeYoY": "185.6",
+            "grototalisOperatingProfitLossYoY": "107.1",
+            "grototalisRevenueYoY": "285.4"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "424.1",
+            "saaverageStaCurrentRatio": "113.3"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "NaN",
+            "effPayablesTurnoverPeriod": "NaN",
+            "effReceivablesTurnoverPeriod": "59.7"
+        }
+    },
+    "PI첨단소재": {
+        "id": "00767460",
+        "profit": {
+            "prototalproROE": "3.4",
+            "prototalproOperatingProfitMargin": "4.9",
+            "prototalproNetProfitMargin": "4.5"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-2.1",
+            "grototalisNetIncomeYoY": "-78.6",
+            "grototalisOperatingProfitLossYoY": "-77.9",
+            "grototalisRevenueYoY": "-19.8"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "63.4",
+            "saaverageStaCurrentRatio": "148.3"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "94.2",
+            "effPayablesTurnoverPeriod": "18.4",
+            "effReceivablesTurnoverPeriod": "57.9"
+        }
+    },
+    "GKL": {
+        "id": "00557508",
+        "profit": {
+            "prototalproROE": "7.0",
+            "prototalproOperatingProfitMargin": "11.6",
+            "prototalproNetProfitMargin": "7.6"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "8.6",
+            "grototalisNetIncomeYoY": "188.8",
+            "grototalisOperatingProfitLossYoY": "195.0",
+            "grototalisRevenueYoY": "100.1"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "57.6",
+            "saaverageStaCurrentRatio": "193.1"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "3.1",
+            "effPayablesTurnoverPeriod": "153.2",
+            "effReceivablesTurnoverPeriod": "16.2"
+        }
+    },
+    "한세실업": {
+        "id": "00728638",
+        "profit": {
+            "prototalproROE": "15.4",
+            "prototalproOperatingProfitMargin": "9.0",
+            "prototalproNetProfitMargin": "5.3"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "18.1",
+            "grototalisNetIncomeYoY": "14.9",
+            "grototalisOperatingProfitLossYoY": "1.3",
+            "grototalisRevenueYoY": "-12.4"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "93.3",
+            "saaverageStaCurrentRatio": "139.3"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "65.5",
+            "effPayablesTurnoverPeriod": "16.7",
+            "effReceivablesTurnoverPeriod": "38.2"
+        }
+    },
+    "후성": {
+        "id": "00595191",
+        "profit": {
+            "prototalproROE": "-6.7",
+            "prototalproOperatingProfitMargin": "-3.2",
+            "prototalproNetProfitMargin": "-4.3"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-1.3",
+            "grototalisNetIncomeYoY": "-130.8",
+            "grototalisOperatingProfitLossYoY": "-127.8",
+            "grototalisRevenueYoY": "-1.0"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "159.8",
+            "saaverageStaCurrentRatio": "73.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "50.2",
+            "effPayablesTurnoverPeriod": "56.4",
+            "effReceivablesTurnoverPeriod": "49.3"
+        }
+    },
+    "TKG휴켐스": {
+        "id": "00426086",
+        "profit": {
+            "prototalproROE": "14.6",
+            "prototalproOperatingProfitMargin": "11.1",
+            "prototalproNetProfitMargin": "10.5"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "10.7",
+            "grototalisNetIncomeYoY": "38.8",
+            "grototalisOperatingProfitLossYoY": "12.5",
+            "grototalisRevenueYoY": "2.2"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "33.3",
+            "saaverageStaCurrentRatio": "239.4"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "20.7",
+            "effPayablesTurnoverPeriod": "63.2",
+            "effReceivablesTurnoverPeriod": "48.9"
+        }
+    },
+    "롯데관광개발": {
+        "id": "00231372",
+        "profit": {
+            "prototalproROE": "-284.5",
+            "prototalproOperatingProfitMargin": "-35.3",
+            "prototalproNetProfitMargin": "-90.5"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-5.1",
+            "grototalisNetIncomeYoY": "-1.8",
+            "grototalisOperatingProfitLossYoY": "31.7",
+            "grototalisRevenueYoY": "57.4"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "4017.4",
+            "saaverageStaCurrentRatio": "6.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "NaN",
+            "effPayablesTurnoverPeriod": "NaN",
+            "effReceivablesTurnoverPeriod": "10.7"
+        }
+    },
+    "아시아나항공": {
+        "id": "00138792",
+        "profit": {
+            "prototalproROE": "33.2",
+            "prototalproOperatingProfitMargin": "8.3",
+            "prototalproNetProfitMargin": "2.9"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "121.3",
+            "grototalisNetIncomeYoY": "282.8",
+            "grototalisOperatingProfitLossYoY": "27.7",
+            "grototalisRevenueYoY": "27.4"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "1756.6",
+            "saaverageStaCurrentRatio": "42.0"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "14.1",
+            "effPayablesTurnoverPeriod": "9.8",
+            "effReceivablesTurnoverPeriod": "20.0"
+        }
+    },
+    "신풍제약": {
+        "id": "00137359",
+        "profit": {
+            "prototalproROE": "-15.7",
+            "prototalproOperatingProfitMargin": "-20.4",
+            "prototalproNetProfitMargin": "-22.2"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-12.1",
+            "grototalisNetIncomeYoY": "-64.6",
+            "grototalisOperatingProfitLossYoY": "-44.4",
+            "grototalisRevenueYoY": "3.5"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "29.1",
+            "saaverageStaCurrentRatio": "262.1"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "154.0",
+            "effPayablesTurnoverPeriod": "34.5",
+            "effReceivablesTurnoverPeriod": "129.5"
+        }
+    },
+    "KG스틸": {
+        "id": "00115676",
+        "profit": {
+            "prototalproROE": "21.9",
+            "prototalproOperatingProfitMargin": "8.3",
+            "prototalproNetProfitMargin": "11.3"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "27.8",
+            "grototalisNetIncomeYoY": "53.3",
+            "grototalisOperatingProfitLossYoY": "-16.9",
+            "grototalisRevenueYoY": "-8.7"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "69.7",
+            "saaverageStaCurrentRatio": "193.8"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "57.6",
+            "effPayablesTurnoverPeriod": "33.4",
+            "effReceivablesTurnoverPeriod": "43.1"
+        }
+    },
+    "아이에스동서": {
+        "id": "00115977",
+        "profit": {
+            "prototalproROE": "10.6",
+            "prototalproOperatingProfitMargin": "15.8",
+            "prototalproNetProfitMargin": "8.9"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "11.2",
+            "grototalisNetIncomeYoY": "-12.1",
+            "grototalisOperatingProfitLossYoY": "-12.8",
+            "grototalisRevenueYoY": "-3.5"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "139.0",
+            "saaverageStaCurrentRatio": "158.4"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "302.4",
+            "effPayablesTurnoverPeriod": "63.9",
+            "effReceivablesTurnoverPeriod": "48.9"
+        }
+    },
+    "명신산업": {
+        "id": "00173078",
+        "profit": {
+            "prototalproROE": "27.3",
+            "prototalproOperatingProfitMargin": "11.4",
+            "prototalproNetProfitMargin": "8.1"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "36.4",
+            "grototalisNetIncomeYoY": "111.4",
+            "grototalisOperatingProfitLossYoY": "152.0",
+            "grototalisRevenueYoY": "27.1"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "93.7",
+            "saaverageStaCurrentRatio": "194.1"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "34.4",
+            "effPayablesTurnoverPeriod": "53.9",
+            "effReceivablesTurnoverPeriod": "51.4"
+        }
+    },
+    "대상": {
+        "id": "00121941",
+        "profit": {
+            "prototalproROE": "5.3",
+            "prototalproOperatingProfitMargin": "3.0",
+            "prototalproNetProfitMargin": "1.8"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "3.6",
+            "grototalisNetIncomeYoY": "-25.7",
+            "grototalisOperatingProfitLossYoY": "-8.9",
+            "grototalisRevenueYoY": "4.9"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "152.4",
+            "saaverageStaCurrentRatio": "169.1"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "69.2",
+            "effPayablesTurnoverPeriod": "39.9",
+            "effReceivablesTurnoverPeriod": "35.9"
+        }
+    },
+    "세아베스틸지주": {
+        "id": "00106669",
+        "profit": {
+            "prototalproROE": "5.2",
+            "prototalproOperatingProfitMargin": "4.1",
+            "prototalproNetProfitMargin": "2.5"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "3.8",
+            "grototalisNetIncomeYoY": "-17.3",
+            "grototalisOperatingProfitLossYoY": "2.9",
+            "grototalisRevenueYoY": "0.4"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "87.2",
+            "saaverageStaCurrentRatio": "190.6"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "108.5",
+            "effPayablesTurnoverPeriod": "46.2",
+            "effReceivablesTurnoverPeriod": "44.8"
+        }
+    },
+    "영풍": {
+        "id": "00141307",
+        "profit": {
+            "prototalproROE": "2.5",
+            "prototalproOperatingProfitMargin": "-3.7",
+            "prototalproNetProfitMargin": "2.7"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "3.4",
+            "grototalisNetIncomeYoY": "-44.2",
+            "grototalisOperatingProfitLossYoY": "-564.3",
+            "grototalisRevenueYoY": "-5.3"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "29.7",
+            "saaverageStaCurrentRatio": "200.3"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "46.2",
+            "effPayablesTurnoverPeriod": "33.4",
+            "effReceivablesTurnoverPeriod": "43.0"
+        }
+    },
+    "녹십자홀딩스": {
+        "id": "00108135",
+        "profit": {
+            "prototalproROE": "-2.0",
+            "prototalproOperatingProfitMargin": "-0.8",
+            "prototalproNetProfitMargin": "-1.8"
+        },
+        "growth": {
+            "grototalInventoryTurnoverPeriod": "-2.5",
+            "grototalisNetIncomeYoY": "-322.5",
+            "grototalisOperatingProfitLossYoY": "-156.5",
+            "grototalisRevenueYoY": "-0.1"
+        },
+        "safety": {
+            "saaverageStaDebtRatio": "102.9",
+            "saaverageStaCurrentRatio": "93.0"
+        },
+        "efficiency": {
+            "effInventoryTurnoverPeriod": "135.9",
+            "effPayablesTurnoverPeriod": "68.4",
+            "effReceivablesTurnoverPeriod": "90.8"
+        }
+    }
+}
