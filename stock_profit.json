@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2024.03",
+    "proROE": "5.6",
+    "proOperatingProfitMargin": "4.7",
+    "proNetProfitMargin": "7.7"
+  },
+  {
+    "date": "2023.12",
+    "proROE": "4.3",
+    "proOperatingProfitMargin": "2.5",
+    "proNetProfitMargin": "6.0"
+  },
+  {
+    "date": "2023.09",
+    "proROE": "9.1",
+    "proOperatingProfitMargin": "3.1",
+    "proNetProfitMargin": "12.6"
+  },
+  {
+    "date": "2023.06",
+    "proROE": "10.2",
+    "proOperatingProfitMargin": "6.1",
+    "proNetProfitMargin": "13.5"
+  },
+  {
+    "date": "2023.03",
+    "proROE": "12.8",
+    "proOperatingProfitMargin": "10.4",
+    "proNetProfitMargin": "15.9"
+  }
+]

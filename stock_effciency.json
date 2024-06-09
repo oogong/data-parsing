@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2024.03",
+    "effInventoryTurnoverPeriod": "108.0",
+    "effPayablesTurnoverPeriod": "25.1",
+    "effReceivablesTurnoverPeriod": "56.2"
+  },
+  {
+    "date": "2023.12",
+    "effInventoryTurnoverPeriod": "104.5",
+    "effPayablesTurnoverPeriod": "22.9",
+    "effReceivablesTurnoverPeriod": "51.7"
+  },
+  {
+    "date": "2023.09",
+    "effInventoryTurnoverPeriod": "110.3",
+    "effPayablesTurnoverPeriod": "26.3",
+    "effReceivablesTurnoverPeriod": "60.6"
+  },
+  {
+    "date": "2023.06",
+    "effInventoryTurnoverPeriod": "109.9",
+    "effPayablesTurnoverPeriod": "23.3",
+    "effReceivablesTurnoverPeriod": "48.6"
+  },
+  {
+    "date": "2023.03",
+    "effInventoryTurnoverPeriod": "105.1",
+    "effPayablesTurnoverPeriod": "23.8",
+    "effReceivablesTurnoverPeriod": "46.4"
+  }
+]
